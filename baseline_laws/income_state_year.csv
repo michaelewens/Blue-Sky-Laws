@@ -1,0 +1,2221 @@
+"state","year","personal_income"
+"Alabama","1948",10467.9
+"Alabama","1949",10053.8
+"Alabama","1950",11245.3
+"Alabama","1951",13108.8
+"Alabama","1952",13947.9
+"Alabama","1953",14571.1
+"Alabama","1954",14066
+"Alabama","1955",15921.2
+"Alabama","1956",17079.6
+"Alabama","1957",18154
+"Alabama","1958",18931.3
+"Alabama","1959",19908
+"Alabama","1960",20753
+"Alabama","1961",21440.4
+"Alabama","1962",22536.4
+"Alabama","1963",23936.2
+"Alabama","1964",25990.3
+"Alabama","1965",28209.7
+"Alabama","1966",30255.4
+"Alabama","1967",31967.1
+"Alabama","1968",34949.8
+"Alabama","1969",38950.8
+"Alabama","1970",42513.3
+"Alabama","1971",46797.3
+"Alabama","1972",51996.3
+"Alabama","1973",58555.5
+"Alabama","1974",64964.2
+"Alabama","1975",72400.4
+"Alabama","1976",81296.2
+"Alabama","1977",89579.5
+"Alabama","1978",101359.7
+"Alabama","1979",112605.6
+"Alabama","1980",124148.5
+"Alabama","1981",137862
+"Alabama","1982",145584.5
+"Alabama","1983",155882
+"Alabama","1984",171480.8
+"Alaska ","1948",0
+"Alaska ","1949",0
+"Alaska ","1950",1565.5
+"Alaska ","1951",2149.7
+"Alaska ","1952",2460.9
+"Alaska ","1953",2598.4
+"Alaska ","1954",2517.1
+"Alaska ","1955",2562.8
+"Alaska ","1956",2707.3
+"Alaska ","1957",2677.3
+"Alaska ","1958",2688.8
+"Alaska ","1959",2801.2
+"Alaska ","1960",3225.3
+"Alaska ","1961",3185.9
+"Alaska ","1962",3323.9
+"Alaska ","1963",3602.8
+"Alaska ","1964",4034.3
+"Alaska ","1965",4353.8
+"Alaska ","1966",4634.7
+"Alaska ","1967",5054.6
+"Alaska ","1968",5460.4
+"Alaska ","1969",6301.3
+"Alaska ","1970",7195.8
+"Alaska ","1971",7936.5
+"Alaska ","1972",8667.1
+"Alaska ","1973",10030.6
+"Alaska ","1974",12170.6
+"Alaska ","1975",16627.2
+"Alaska ","1976",19573.2
+"Alaska ","1977",20327.5
+"Alaska ","1978",20943.6
+"Alaska ","1979",22187.2
+"Alaska ","1980",25140.2
+"Alaska ","1981",28609.2
+"Alaska ","1982",34933.4
+"Alaska ","1983",38053.9
+"Alaska ","1984",40482.4
+"Arizona","1948",3738.2
+"Arizona","1949",3835
+"Arizona","1950",4257.5
+"Arizona","1951",5267.3
+"Arizona","1952",5990.2
+"Arizona","1953",6359.8
+"Arizona","1954",6590.8
+"Arizona","1955",7237.1
+"Arizona","1956",8158.2
+"Arizona","1957",8928.3
+"Arizona","1958",9488.8
+"Arizona","1959",10473.5
+"Arizona","1960",11423.2
+"Arizona","1961",12439.4
+"Arizona","1962",13399.1
+"Arizona","1963",14086.3
+"Arizona","1964",15108.4
+"Arizona","1965",16015.2
+"Arizona","1966",17438.9
+"Arizona","1967",18957.4
+"Arizona","1968",21749.4
+"Arizona","1969",25308.2
+"Arizona","1970",28864.5
+"Arizona","1971",33022.2
+"Arizona","1972",37858.6
+"Arizona","1973",43736.8
+"Arizona","1974",49344.5
+"Arizona","1975",53271
+"Arizona","1976",59252.7
+"Arizona","1977",66587.2
+"Arizona","1978",78238.4
+"Arizona","1979",91946.5
+"Arizona","1980",105910.4
+"Arizona","1981",120988.2
+"Arizona","1982",128789.5
+"Arizona","1983",141810.4
+"Arizona","1984",160222.4
+"Arkansas","1948",6429.8
+"Arkansas","1949",6035.3
+"Arkansas","1950",6482.9
+"Arkansas","1951",7374.3
+"Arkansas","1952",7668.7
+"Arkansas","1953",7717.7
+"Arkansas","1954",7632.8
+"Arkansas","1955",8295.9
+"Arkansas","1956",8598.6
+"Arkansas","1957",8875.7
+"Arkansas","1958",9244.4
+"Arkansas","1959",10089.1
+"Arkansas","1960",10191.9
+"Arkansas","1961",11086.5
+"Arkansas","1962",11862.3
+"Arkansas","1963",12568.6
+"Arkansas","1964",13649.3
+"Arkansas","1965",14408.5
+"Arkansas","1966",16019.4
+"Arkansas","1967",17017.1
+"Arkansas","1968",18403.7
+"Arkansas","1969",20514.2
+"Arkansas","1970",22506
+"Arkansas","1971",25052.4
+"Arkansas","1972",28284.8
+"Arkansas","1973",33504.3
+"Arkansas","1974",37414.2
+"Arkansas","1975",41168.4
+"Arkansas","1976",45515.6
+"Arkansas","1977",50647
+"Arkansas","1978",58675.1
+"Arkansas","1979",64351.9
+"Arkansas","1980",69553.3
+"Arkansas","1981",78810.5
+"Arkansas","1982",82809
+"Arkansas","1983",87739.3
+"Arkansas","1984",97833.7
+"California","1948",73098
+"California","1949",74406.8
+"California","1950",83152.5
+"California","1951",96468.9
+"California","1952",107176.3
+"California","1953",114912.5
+"California","1954",118414.7
+"California","1955",130200.2
+"California","1956",142462.7
+"California","1957",153078.1
+"California","1958",161009.6
+"California","1959",176125.4
+"California","1960",186084.6
+"California","1961",197066.3
+"California","1962",212342
+"California","1963",226960.2
+"California","1964",245618.4
+"California","1965",262469.9
+"California","1966",285423.8
+"California","1967",306926.3
+"California","1968",336222.9
+"California","1969",368640.2
+"California","1970",397669.9
+"California","1971",423948.8
+"California","1972",465404.3
+"California","1973",511109
+"California","1974",570029.7
+"California","1975",630559.7
+"California","1976",699699.2
+"California","1977",776131.5
+"California","1978",882560.1
+"California","1979",1000695.6
+"California","1980",1137231.9
+"California","1981",1278228.7
+"California","1982",1369369.8
+"California","1983",1479235.2
+"California","1984",1643185.6
+"Colorado","1948",7522.5
+"Colorado","1949",7658.3
+"Colorado","1950",8395.5
+"Colorado","1951",9975.1
+"Colorado","1952",10770
+"Colorado","1953",10903.1
+"Colorado","1954",11234.6
+"Colorado","1955",12239
+"Colorado","1956",13503.9
+"Colorado","1957",14796.3
+"Colorado","1958",15148.5
+"Colorado","1959",16271.9
+"Colorado","1960",17413.7
+"Colorado","1961",18735.7
+"Colorado","1962",19768.4
+"Colorado","1963",20697.6
+"Colorado","1964",21896.6
+"Colorado","1965",23362.6
+"Colorado","1966",25103.1
+"Colorado","1967",27053.8
+"Colorado","1968",30011
+"Colorado","1969",33755.4
+"Colorado","1970",38160.8
+"Colorado","1971",43038.7
+"Colorado","1972",48704.3
+"Colorado","1973",55692.4
+"Colorado","1974",62436.7
+"Colorado","1975",68998.9
+"Colorado","1976",75925
+"Colorado","1977",84697
+"Colorado","1978",97654.1
+"Colorado","1979",111917.1
+"Colorado","1980",128203.4
+"Colorado","1981",147531.5
+"Colorado","1982",162023.6
+"Colorado","1983",174776.9
+"Colorado","1984",190578.5
+"Connecticut","1948",14035.5
+"Connecticut","1949",13669.4
+"Connecticut","1950",15470.3
+"Connecticut","1951",17776.6
+"Connecticut","1952",19443
+"Connecticut","1953",21079.4
+"Connecticut","1954",21495.1
+"Connecticut","1955",23151.4
+"Connecticut","1956",25294
+"Connecticut","1957",26977.3
+"Connecticut","1958",26151.9
+"Connecticut","1959",27947.7
+"Connecticut","1960",29104.4
+"Connecticut","1961",30807
+"Connecticut","1962",32908.9
+"Connecticut","1963",34764.3
+"Connecticut","1964",37339.2
+"Connecticut","1965",40154.4
+"Connecticut","1966",44094
+"Connecticut","1967",48345.7
+"Connecticut","1968",51315.1
+"Connecticut","1969",58770.1
+"Connecticut","1970",62695.3
+"Connecticut","1971",66057.6
+"Connecticut","1972",71218.7
+"Connecticut","1973",77573.4
+"Connecticut","1974",84629
+"Connecticut","1975",90902.2
+"Connecticut","1976",98145.6
+"Connecticut","1977",108130.6
+"Connecticut","1978",120323.5
+"Connecticut","1979",135254.4
+"Connecticut","1980",153975.8
+"Connecticut","1981",172972
+"Connecticut","1982",186805.3
+"Connecticut","1983",199833
+"Connecticut","1984",223522.7
+"Delaware","1948",2095.7
+"Delaware","1949",2280.1
+"Delaware","1950",2672.6
+"Delaware","1951",2870.9
+"Delaware","1952",3080.5
+"Delaware","1953",3300.1
+"Delaware","1954",3428.1
+"Delaware","1955",3955.5
+"Delaware","1956",4565
+"Delaware","1957",4595.9
+"Delaware","1958",4724.1
+"Delaware","1959",4926.2
+"Delaware","1960",5160.3
+"Delaware","1961",5324.8
+"Delaware","1962",5654.1
+"Delaware","1963",6066.8
+"Delaware","1964",6564.8
+"Delaware","1965",7222.6
+"Delaware","1966",7610.3
+"Delaware","1967",8122.3
+"Delaware","1968",8860.8
+"Delaware","1969",9764.7
+"Delaware","1970",10399.7
+"Delaware","1971",11376.3
+"Delaware","1972",12499.8
+"Delaware","1973",13849.1
+"Delaware","1974",14988.3
+"Delaware","1975",16116.9
+"Delaware","1976",17615.9
+"Delaware","1977",18964.5
+"Delaware","1978",20806.4
+"Delaware","1979",22867.8
+"Delaware","1980",25722
+"Delaware","1981",28376.6
+"Delaware","1982",30536.5
+"Delaware","1983",32526.5
+"Delaware","1984",35890.1
+"District of Columbia","1948",7122.5
+"District of Columbia","1949",7379.1
+"District of Columbia","1950",7826
+"District of Columbia","1951",8232.6
+"District of Columbia","1952",8670.9
+"District of Columbia","1953",8420.3
+"District of Columbia","1954",8294
+"District of Columbia","1955",8235.4
+"District of Columbia","1956",8623.1
+"District of Columbia","1957",8969.4
+"District of Columbia","1958",9167.2
+"District of Columbia","1959",9453.6
+"District of Columbia","1960",9561.8
+"District of Columbia","1961",10069.8
+"District of Columbia","1962",10836.7
+"District of Columbia","1963",11507
+"District of Columbia","1964",12216.9
+"District of Columbia","1965",13163
+"District of Columbia","1966",13745.4
+"District of Columbia","1967",14728.1
+"District of Columbia","1968",15461.4
+"District of Columbia","1969",15054
+"District of Columbia","1970",16697.7
+"District of Columbia","1971",18588.1
+"District of Columbia","1972",20173.9
+"District of Columbia","1973",21264.4
+"District of Columbia","1974",23074.9
+"District of Columbia","1975",25098.7
+"District of Columbia","1976",26592.3
+"District of Columbia","1977",28550.2
+"District of Columbia","1978",30417.7
+"District of Columbia","1979",32012
+"District of Columbia","1980",33789.7
+"District of Columbia","1981",36376.2
+"District of Columbia","1982",38776.4
+"District of Columbia","1983",40770.7
+"District of Columbia","1984",44505.1
+"Far West","1948",98785.4
+"Far West","1949",100173.2
+"Far West","1950",116772.7
+"Far West","1951",134502.7
+"Far West","1952",148140.7
+"Far West","1953",157761.7
+"Far West","1954",161868.8
+"Far West","1955",176465.8
+"Far West","1956",191353.7
+"Far West","1957",203980.8
+"Far West","1958",213169.4
+"Far West","1959",232090.8
+"Far West","1960",245114.6
+"Far West","1961",259080.2
+"Far West","1962",279232.1
+"Far West","1963",296969.6
+"Far West","1964",320270.7
+"Far West","1965",343197.2
+"Far West","1966",374260.2
+"Far West","1967",403021.1
+"Far West","1968",442862.4
+"Far West","1969",486900.4
+"Far West","1970",526302.2
+"Far West","1971",562548.5
+"Far West","1972",617411.4
+"Far West","1973",682356.2
+"Far West","1974",764777.8
+"Far West","1975",851595.9
+"Far West","1976",946699.8
+"Far West","1977",1049604.7
+"Far West","1978",1195942.5
+"Far West","1979",1357143.2
+"Far West","1980",1540128.3
+"Far West","1981",1722864.8
+"Far West","1982",1842467
+"Far West","1983",1985932.7
+"Far West","1984",2188231.1
+"Florida","1948",12791
+"Florida","1949",13298.2
+"Florida","1950",15180.7
+"Florida","1951",17170.6
+"Florida","1952",19430.8
+"Florida","1953",21666.2
+"Florida","1954",22830.5
+"Florida","1955",26119.6
+"Florida","1956",30264.5
+"Florida","1957",33497.9
+"Florida","1958",36424.3
+"Florida","1959",40212.7
+"Florida","1960",42126.3
+"Florida","1961",44661.5
+"Florida","1962",48223.7
+"Florida","1963",51755.8
+"Florida","1964",56621.5
+"Florida","1965",61893.5
+"Florida","1966",67902.5
+"Florida","1967",75087
+"Florida","1968",86322.2
+"Florida","1969",100019.7
+"Florida","1970",113104.8
+"Florida","1971",127025.5
+"Florida","1972",146199.9
+"Florida","1973",170313.4
+"Florida","1974",191532.5
+"Florida","1975",208671.7
+"Florida","1976",228049.4
+"Florida","1977",255377.1
+"Florida","1978",294533.1
+"Florida","1979",338640.5
+"Florida","1980",399307.1
+"Florida","1981",462924.8
+"Florida","1982",500213.5
+"Florida","1983",552372.2
+"Florida","1984",615550.4
+"Georgia","1948",13000.8
+"Georgia","1949",13077.2
+"Georgia","1950",15040.8
+"Georgia","1951",17520.1
+"Georgia","1952",18952.3
+"Georgia","1953",19478.6
+"Georgia","1954",19464.6
+"Georgia","1955",21451.1
+"Georgia","1956",22972.9
+"Georgia","1957",23804.4
+"Georgia","1958",24815.5
+"Georgia","1959",26443.8
+"Georgia","1960",27670.1
+"Georgia","1961",28885.4
+"Georgia","1962",31073
+"Georgia","1963",33781.2
+"Georgia","1964",36581
+"Georgia","1965",40397.4
+"Georgia","1966",44574.3
+"Georgia","1967",48481.6
+"Georgia","1968",53525.8
+"Georgia","1969",59920.3
+"Georgia","1970",65241.6
+"Georgia","1971",72038.6
+"Georgia","1972",80824.5
+"Georgia","1973",91392.7
+"Georgia","1974",100271.3
+"Georgia","1975",108337.2
+"Georgia","1976",120586.3
+"Georgia","1977",133328.5
+"Georgia","1978",151275.9
+"Georgia","1979",169285
+"Georgia","1980",188771.3
+"Georgia","1981",213835.4
+"Georgia","1982",231467.1
+"Georgia","1983",253517.9
+"Georgia","1984",287450.3
+"Great Lakes","1948",191003.4
+"Great Lakes","1949",183985.5
+"Great Lakes","1950",204852.2
+"Great Lakes","1951",232621.1
+"Great Lakes","1952",246659.4
+"Great Lakes","1953",268958.9
+"Great Lakes","1954",266339.8
+"Great Lakes","1955",288055.9
+"Great Lakes","1956",308723.7
+"Great Lakes","1957",321565.3
+"Great Lakes","1958",321215.6
+"Great Lakes","1959",342375.1
+"Great Lakes","1960",355734.2
+"Great Lakes","1961",364553.9
+"Great Lakes","1962",386740.8
+"Great Lakes","1963",404922.2
+"Great Lakes","1964",435078.2
+"Great Lakes","1965",474822.4
+"Great Lakes","1966",516382.3
+"Great Lakes","1967",543389.1
+"Great Lakes","1968",593032
+"Great Lakes","1969",648065.9
+"Great Lakes","1970",682821.3
+"Great Lakes","1971",734778.7
+"Great Lakes","1972",802831.9
+"Great Lakes","1973",897716.6
+"Great Lakes","1974",975062.2
+"Great Lakes","1975",1053012.2
+"Great Lakes","1976",1158512.9
+"Great Lakes","1977",1285735.2
+"Great Lakes","1978",1426310.3
+"Great Lakes","1979",1571150.2
+"Great Lakes","1980",1703122.2
+"Great Lakes","1981",1859215.7
+"Great Lakes","1982",1947205
+"Great Lakes","1983",2048811.4
+"Great Lakes","1984",2261911.5
+"Hawaii ","1948",0
+"Hawaii ","1949",0
+"Hawaii ","1950",3153.6
+"Hawaii ","1951",3693.7
+"Hawaii ","1952",4071.5
+"Hawaii ","1953",4219.3
+"Hawaii ","1954",4254.5
+"Hawaii ","1955",4454.5
+"Hawaii ","1956",4669.9
+"Hawaii ","1957",4953
+"Hawaii ","1958",5132.3
+"Hawaii ","1959",5698
+"Hawaii ","1960",6461.2
+"Hawaii ","1961",7014.8
+"Hawaii ","1962",7524.2
+"Hawaii ","1963",8044.2
+"Hawaii ","1964",8750.9
+"Hawaii ","1965",9609.1
+"Hawaii ","1966",10433.4
+"Hawaii ","1967",11322.6
+"Hawaii ","1968",12735
+"Hawaii ","1969",14572.7
+"Hawaii ","1970",16899.7
+"Hawaii ","1971",18336.4
+"Hawaii ","1972",20191.3
+"Hawaii ","1973",22370.5
+"Hawaii ","1974",25442.7
+"Hawaii ","1975",27676
+"Hawaii ","1976",29863.7
+"Hawaii ","1977",32336.2
+"Hawaii ","1978",35815.7
+"Hawaii ","1979",40171.2
+"Hawaii ","1980",45935.8
+"Hawaii ","1981",49736.3
+"Hawaii ","1982",52664.8
+"Hawaii ","1983",57773.3
+"Hawaii ","1984",61890.3
+"Idaho","1948",2980.1
+"Idaho","1949",2956.7
+"Idaho","1950",3190.2
+"Idaho","1951",3609.1
+"Idaho","1952",3974.7
+"Idaho","1953",3803.7
+"Idaho","1954",3869.8
+"Idaho","1955",4081.1
+"Idaho","1956",4502
+"Idaho","1957",4769.9
+"Idaho","1958",4863.2
+"Idaho","1959",5147.7
+"Idaho","1960",5264.3
+"Idaho","1961",5567.7
+"Idaho","1962",5951.8
+"Idaho","1963",6092
+"Idaho","1964",6299.3
+"Idaho","1965",7175
+"Idaho","1966",7269.1
+"Idaho","1967",7727.5
+"Idaho","1968",8260.3
+"Idaho","1969",9564.1
+"Idaho","1970",10590.7
+"Idaho","1971",11576.6
+"Idaho","1972",13217.3
+"Idaho","1973",15282
+"Idaho","1974",17989.5
+"Idaho","1975",19466.8
+"Idaho","1976",21745.1
+"Idaho","1977",23769.4
+"Idaho","1978",27319.7
+"Idaho","1979",29876.7
+"Idaho","1980",33579.7
+"Idaho","1981",36950.3
+"Idaho","1982",38798.7
+"Idaho","1983",42398.3
+"Idaho","1984",45177.2
+"Illinois","1948",62161.3
+"Illinois","1949",58618.3
+"Illinois","1950",64388
+"Illinois","1951",71754.4
+"Illinois","1952",75438.6
+"Illinois","1953",80598.9
+"Illinois","1954",81171.8
+"Illinois","1955",86339.1
+"Illinois","1956",94256.2
+"Illinois","1957",98304.1
+"Illinois","1958",99290.7
+"Illinois","1959",105401.1
+"Illinois","1960",108838.3
+"Illinois","1961",113128.3
+"Illinois","1962",119540.7
+"Illinois","1963",124382.5
+"Illinois","1964",132964.8
+"Illinois","1965",144272.6
+"Illinois","1966",156394.2
+"Illinois","1967",166424.4
+"Illinois","1968",178327.1
+"Illinois","1969",193938.1
+"Illinois","1970",206097.1
+"Illinois","1971",221269.5
+"Illinois","1972",240119.8
+"Illinois","1973",267870.7
+"Illinois","1974",292865.4
+"Illinois","1975",319465
+"Illinois","1976",347329.1
+"Illinois","1977",381838.7
+"Illinois","1978",421366.7
+"Illinois","1979",462278.1
+"Illinois","1980",500843.9
+"Illinois","1981",555507.8
+"Illinois","1982",588046.8
+"Illinois","1983",612080
+"Illinois","1984",674868.6
+"Indiana","1948",22462.9
+"Indiana","1949",21488.7
+"Indiana","1950",24197.4
+"Indiana","1951",28171
+"Indiana","1952",29636.2
+"Indiana","1953",32651.5
+"Indiana","1954",30867.3
+"Indiana","1955",33295.1
+"Indiana","1956",35860.6
+"Indiana","1957",37062.4
+"Indiana","1958",37088.5
+"Indiana","1959",39498.3
+"Indiana","1960",41561.2
+"Indiana","1961",42828.3
+"Indiana","1962",45856.9
+"Indiana","1963",48171.1
+"Indiana","1964",51267.6
+"Indiana","1965",56648.5
+"Indiana","1966",61150.4
+"Indiana","1967",64068.8
+"Indiana","1968",69649.8
+"Indiana","1969",76953.3
+"Indiana","1970",80114.9
+"Indiana","1971",87175
+"Indiana","1972",95386.1
+"Indiana","1973",109473.6
+"Indiana","1974",117097.3
+"Indiana","1975",126430.2
+"Indiana","1976",140526.2
+"Indiana","1977",155603.7
+"Indiana","1978",173593.8
+"Indiana","1979",191222.8
+"Indiana","1980",205675
+"Indiana","1981",225627.7
+"Indiana","1982",233717
+"Indiana","1983",245105.8
+"Indiana","1984",272037.1
+"Iowa","1948",16490.9
+"Iowa","1949",14042.9
+"Iowa","1950",16156.3
+"Iowa","1951",17245.4
+"Iowa","1952",18304.8
+"Iowa","1953",17625.2
+"Iowa","1954",19062.2
+"Iowa","1955",18169.8
+"Iowa","1956",19284.1
+"Iowa","1957",21390.4
+"Iowa","1958",21853.4
+"Iowa","1959",22409.3
+"Iowa","1960",22980.6
+"Iowa","1961",24335.3
+"Iowa","1962",25377.8
+"Iowa","1963",26976.9
+"Iowa","1964",28237.5
+"Iowa","1965",31273.6
+"Iowa","1966",34052.4
+"Iowa","1967",34686.2
+"Iowa","1968",37388.4
+"Iowa","1969",41496.2
+"Iowa","1970",44379.8
+"Iowa","1971",46566.5
+"Iowa","1972",52160.7
+"Iowa","1973",62619.1
+"Iowa","1974",64900
+"Iowa","1975",72534.8
+"Iowa","1976",77121
+"Iowa","1977",85101.1
+"Iowa","1978",98148.9
+"Iowa","1979",105193.4
+"Iowa","1980",111974.8
+"Iowa","1981",126723.9
+"Iowa","1982",130177.5
+"Iowa","1983",132598
+"Iowa","1984",147776.5
+"Kansas","1948",10218.6
+"Kansas","1949",10120.6
+"Kansas","1950",11353.3
+"Kansas","1951",12649.5
+"Kansas","1952",14738.5
+"Kansas","1953",14190.5
+"Kansas","1954",15020.9
+"Kansas","1955",15073.5
+"Kansas","1956",15856.9
+"Kansas","1957",16738.6
+"Kansas","1958",18373.4
+"Kansas","1959",18568.9
+"Kansas","1960",19308.2
+"Kansas","1961",20157.5
+"Kansas","1962",20975.9
+"Kansas","1963",21457.7
+"Kansas","1964",22598.8
+"Kansas","1965",24095.8
+"Kansas","1966",25809.4
+"Kansas","1967",27022.9
+"Kansas","1968",29441.2
+"Kansas","1969",32779.2
+"Kansas","1970",35570.7
+"Kansas","1971",38616.9
+"Kansas","1972",43053.3
+"Kansas","1973",49065.4
+"Kansas","1974",53047.9
+"Kansas","1975",57950.1
+"Kansas","1976",62984.7
+"Kansas","1977",68728.5
+"Kansas","1978",76057.2
+"Kansas","1979",86860
+"Kansas","1980",95476.9
+"Kansas","1981",108196.7
+"Kansas","1982",117307
+"Kansas","1983",122158.1
+"Kansas","1984",134070.4
+"Kentucky","1948",11277.3
+"Kentucky","1949",10718
+"Kentucky","1950",11725.9
+"Kentucky","1951",13781.8
+"Kentucky","1952",14665.1
+"Kentucky","1953",15410.6
+"Kentucky","1954",15213.8
+"Kentucky","1955",15923.8
+"Kentucky","1956",16827.5
+"Kentucky","1957",17664.3
+"Kentucky","1958",18492.8
+"Kentucky","1959",19450.4
+"Kentucky","1960",20088.1
+"Kentucky","1961",21384
+"Kentucky","1962",22711.3
+"Kentucky","1963",23871.6
+"Kentucky","1964",24901.8
+"Kentucky","1965",26998.4
+"Kentucky","1966",29517.6
+"Kentucky","1967",31950.3
+"Kentucky","1968",34925.7
+"Kentucky","1969",38846.9
+"Kentucky","1970",42139.3
+"Kentucky","1971",45864.3
+"Kentucky","1972",50719
+"Kentucky","1973",57010.2
+"Kentucky","1974",64208.7
+"Kentucky","1975",69916.9
+"Kentucky","1976",78177.4
+"Kentucky","1977",87735.7
+"Kentucky","1978",97776
+"Kentucky","1979",109818.9
+"Kentucky","1980",119486.2
+"Kentucky","1981",132950.8
+"Kentucky","1982",141608
+"Kentucky","1983",147020.1
+"Kentucky","1984",164247.9
+"Louisiana","1948",10625.4
+"Louisiana","1949",11399.1
+"Louisiana","1950",12213.2
+"Louisiana","1951",13666.9
+"Louisiana","1952",14884.7
+"Louisiana","1953",15747.9
+"Louisiana","1954",15734.7
+"Louisiana","1955",16726.6
+"Louisiana","1956",18576.7
+"Louisiana","1957",20559.1
+"Louisiana","1958",21065.8
+"Louisiana","1959",22013.5
+"Louisiana","1960",22365
+"Louisiana","1961",23274.2
+"Louisiana","1962",24631.3
+"Louisiana","1963",26254.6
+"Louisiana","1964",28065.4
+"Louisiana","1965",30407.3
+"Louisiana","1966",33641.1
+"Louisiana","1967",36901
+"Louisiana","1968",40422.5
+"Louisiana","1969",43063.5
+"Louisiana","1970",46652.1
+"Louisiana","1971",50860.9
+"Louisiana","1972",55648.3
+"Louisiana","1973",62113.9
+"Louisiana","1974",70607.3
+"Louisiana","1975",79500.7
+"Louisiana","1976",89662.1
+"Louisiana","1977",100125.6
+"Louisiana","1978",114523.2
+"Louisiana","1979",129912.1
+"Louisiana","1980",149475.3
+"Louisiana","1981",172337.5
+"Louisiana","1982",185518.7
+"Louisiana","1983",193690.2
+"Louisiana","1984",206017.9
+"Maine","1948",4458.6
+"Maine","1949",4385.6
+"Maine","1950",4498.5
+"Maine","1951",4983.6
+"Maine","1952",5453.9
+"Maine","1953",5495.4
+"Maine","1954",5591.2
+"Maine","1955",6143.5
+"Maine","1956",6503.4
+"Maine","1957",6763.1
+"Maine","1958",7045.2
+"Maine","1959",7364
+"Maine","1960",7809.6
+"Maine","1961",7909.4
+"Maine","1962",8217.6
+"Maine","1963",8488.8
+"Maine","1964",9170.7
+"Maine","1965",9897.3
+"Maine","1966",10519.3
+"Maine","1967",11042.7
+"Maine","1968",11760.1
+"Maine","1969",12943.9
+"Maine","1970",14228.2
+"Maine","1971",15290.8
+"Maine","1972",16750.8
+"Maine","1973",18826.9
+"Maine","1974",20917
+"Maine","1975",22609.2
+"Maine","1976",25787.8
+"Maine","1977",28030.5
+"Maine","1978",30962
+"Maine","1979",34359.6
+"Maine","1980",38613.9
+"Maine","1981",42606.3
+"Maine","1982",46323.9
+"Maine","1983",49891.8
+"Maine","1984",55146.9
+"Maryland","1948",14062.1
+"Maryland","1949",14351.8
+"Maryland","1950",16036
+"Maryland","1951",18501.9
+"Maryland","1952",20392.7
+"Maryland","1953",21715.1
+"Maryland","1954",21823.2
+"Maryland","1955",23487.4
+"Maryland","1956",25650.6
+"Maryland","1957",27321.8
+"Maryland","1958",27875.5
+"Maryland","1959",29455.8
+"Maryland","1960",30955.1
+"Maryland","1961",32935.5
+"Maryland","1962",35587.8
+"Maryland","1963",38126.4
+"Maryland","1964",41545.5
+"Maryland","1965",45267.6
+"Maryland","1966",49908.8
+"Maryland","1967",54320.7
+"Maryland","1968",59999.1
+"Maryland","1969",68943.7
+"Maryland","1970",76669
+"Maryland","1971",84503.3
+"Maryland","1972",92705.7
+"Maryland","1973",102242.1
+"Maryland","1974",111611.2
+"Maryland","1975",120816.5
+"Maryland","1976",131627.8
+"Maryland","1977",142702.9
+"Maryland","1978",158468.7
+"Maryland","1979",174182
+"Maryland","1980",194013.1
+"Maryland","1981",216172
+"Maryland","1982",234442.5
+"Maryland","1983",251149.6
+"Maryland","1984",278659.4
+"Massachusetts","1948",28637.7
+"Massachusetts","1949",28410.2
+"Massachusetts","1950",31585.6
+"Massachusetts","1951",34571.1
+"Massachusetts","1952",36164.4
+"Massachusetts","1953",38331.5
+"Massachusetts","1954",38752.6
+"Massachusetts","1955",41316.8
+"Massachusetts","1956",43838.5
+"Massachusetts","1957",46331.7
+"Massachusetts","1958",47343.6
+"Massachusetts","1959",50521.7
+"Massachusetts","1960",52588.6
+"Massachusetts","1961",55255.1
+"Massachusetts","1962",58386.4
+"Massachusetts","1963",60813.7
+"Massachusetts","1964",64932.5
+"Massachusetts","1965",69279
+"Massachusetts","1966",74600.5
+"Massachusetts","1967",81042
+"Massachusetts","1968",88505.9
+"Massachusetts","1969",96167.6
+"Massachusetts","1970",103845.6
+"Massachusetts","1971",110967.8
+"Massachusetts","1972",119911.7
+"Massachusetts","1973",130296.2
+"Massachusetts","1974",140729
+"Massachusetts","1975",151207.3
+"Massachusetts","1976",162755.4
+"Massachusetts","1977",177191.6
+"Massachusetts","1978",195754.9
+"Massachusetts","1979",217925.5
+"Massachusetts","1980",245555
+"Massachusetts","1981",273973.8
+"Massachusetts","1982",300394.2
+"Massachusetts","1983",325783.6
+"Massachusetts","1984",367713.1
+"Michigan","1948",38790.9
+"Michigan","1949",38569.4
+"Michigan","1950",44010.5
+"Michigan","1951",49276.3
+"Michigan","1952",52762.2
+"Michigan","1953",59966.2
+"Michigan","1954",58473.5
+"Michigan","1955",64944.2
+"Michigan","1956",67795.6
+"Michigan","1957",69763.5
+"Michigan","1958",68478
+"Michigan","1959",72504.2
+"Michigan","1960",75536
+"Michigan","1961",75827.9
+"Michigan","1962",81277.3
+"Michigan","1963",86766.1
+"Michigan","1964",95096.6
+"Michigan","1965",105500.6
+"Michigan","1966",115056.3
+"Michigan","1967",119967.3
+"Michigan","1968",132642.5
+"Michigan","1969",144271.8
+"Michigan","1970",149446.6
+"Michigan","1971",162575.9
+"Michigan","1972",180528.1
+"Michigan","1973",201531.5
+"Michigan","1974",215652.8
+"Michigan","1975",230980.4
+"Michigan","1976",257831.2
+"Michigan","1977",289862.5
+"Michigan","1978",323091.6
+"Michigan","1979",353914.9
+"Michigan","1980",378737.6
+"Michigan","1981",405017.1
+"Michigan","1982",419266
+"Michigan","1983",446308.7
+"Michigan","1984",492708.7
+"Mideast","1948",217643.5
+"Mideast","1949",217903.6
+"Mideast","1950",238298.9
+"Mideast","1951",262328.3
+"Mideast","1952",277707.9
+"Mideast","1953",296071.9
+"Mideast","1954",299652.1
+"Mideast","1955",318459.3
+"Mideast","1956",341958.5
+"Mideast","1957",362127.6
+"Mideast","1958",369575.9
+"Mideast","1959",391187.9
+"Mideast","1960",408121.1
+"Mideast","1961",425048.2
+"Mideast","1962",449748.3
+"Mideast","1963",470615.4
+"Mideast","1964",504000.8
+"Mideast","1965",539301.7
+"Mideast","1966",581266.5
+"Mideast","1967",626095.5
+"Mideast","1968",686987.7
+"Mideast","1969",739668.6
+"Mideast","1970",799901
+"Mideast","1971",858606
+"Mideast","1972",928612.6
+"Mideast","1973",1004027.1
+"Mideast","1974",1090246.1
+"Mideast","1975",1181089.3
+"Mideast","1976",1270527.8
+"Mideast","1977",1380684
+"Mideast","1978",1515911.8
+"Mideast","1979",1666784.8
+"Mideast","1980",1851099.2
+"Mideast","1981",2058633.8
+"Mideast","1982",2223685.6
+"Mideast","1983",2377656.9
+"Mideast","1984",2615158.9
+"Minnesota","1948",16647.4
+"Minnesota","1949",15672.5
+"Minnesota","1950",17344.6
+"Minnesota","1951",19200.2
+"Minnesota","1952",20001.3
+"Minnesota","1953",21113.4
+"Minnesota","1954",21768.6
+"Minnesota","1955",23061.8
+"Minnesota","1956",24160.9
+"Minnesota","1957",25645.9
+"Minnesota","1958",27090.9
+"Minnesota","1959",28138.6
+"Minnesota","1960",29886.6
+"Minnesota","1961",31413.4
+"Minnesota","1962",33110.6
+"Minnesota","1963",35117.5
+"Minnesota","1964",36526.2
+"Minnesota","1965",40350.4
+"Minnesota","1966",43733.8
+"Minnesota","1967",47001.4
+"Minnesota","1968",51735.9
+"Minnesota","1969",57552.2
+"Minnesota","1970",62835.4
+"Minnesota","1971",67064.1
+"Minnesota","1972",72916.9
+"Minnesota","1973",85481
+"Minnesota","1974",92047.1
+"Minnesota","1975",99564.4
+"Minnesota","1976",107628.5
+"Minnesota","1977",121170.9
+"Minnesota","1978",135955.8
+"Minnesota","1979",151181.7
+"Minnesota","1980",168008.2
+"Minnesota","1981",186190.6
+"Minnesota","1982",199470.1
+"Minnesota","1983",210313.5
+"Minnesota","1984",238669.4
+"Mississippi","1948",6621.9
+"Mississippi","1949",5926.8
+"Mississippi","1950",6788.6
+"Mississippi","1951",7489.7
+"Mississippi","1952",7924.2
+"Mississippi","1953",8036.8
+"Mississippi","1954",7811.6
+"Mississippi","1955",8812.3
+"Mississippi","1956",8983
+"Mississippi","1957",9088.5
+"Mississippi","1958",9848.6
+"Mississippi","1959",10905.6
+"Mississippi","1960",11055.3
+"Mississippi","1961",11987.8
+"Mississippi","1962",12529.8
+"Mississippi","1963",13769.4
+"Mississippi","1964",14253.3
+"Mississippi","1965",15474.4
+"Mississippi","1966",16869.3
+"Mississippi","1967",18253.5
+"Mississippi","1968",19973.3
+"Mississippi","1969",22162.7
+"Mississippi","1970",24308
+"Mississippi","1971",26948.3
+"Mississippi","1972",30709.7
+"Mississippi","1973",35116.2
+"Mississippi","1974",38592.4
+"Mississippi","1975",41851.4
+"Mississippi","1976",47510.5
+"Mississippi","1977",52888.8
+"Mississippi","1978",58886.3
+"Mississippi","1979",66546.3
+"Mississippi","1980",72390.1
+"Mississippi","1981",81326.4
+"Mississippi","1982",85861.5
+"Mississippi","1983",89806.3
+"Mississippi","1984",98110.6
+"Missouri","1948",21183.5
+"Missouri","1949",20686.6
+"Missouri","1950",22799.4
+"Missouri","1951",25279.2
+"Missouri","1952",26721.6
+"Missouri","1953",28348
+"Missouri","1954",28559.6
+"Missouri","1955",30582.5
+"Missouri","1956",32260
+"Missouri","1957",33184.2
+"Missouri","1958",35314.9
+"Missouri","1959",37400.9
+"Missouri","1960",38518.7
+"Missouri","1961",39821.1
+"Missouri","1962",41955
+"Missouri","1963",44009.3
+"Missouri","1964",46478.5
+"Missouri","1965",50539.4
+"Missouri","1966",54143.1
+"Missouri","1967",57629.8
+"Missouri","1968",63799.5
+"Missouri","1969",67649.9
+"Missouri","1970",73918
+"Missouri","1971",79755.7
+"Missouri","1972",86728.9
+"Missouri","1973",96358.6
+"Missouri","1974",103098.8
+"Missouri","1975",112850.9
+"Missouri","1976",123648.1
+"Missouri","1977",137009.7
+"Missouri","1978",152519
+"Missouri","1979",170055.3
+"Missouri","1980",184481
+"Missouri","1981",206066.4
+"Missouri","1982",220334.1
+"Missouri","1983",235031.6
+"Missouri","1984",260757.2
+"Montana","1948",3550.5
+"Montana","1949",3261.2
+"Montana","1950",3981.3
+"Montana","1951",4371.3
+"Montana","1952",4467.8
+"Montana","1953",4539.5
+"Montana","1954",4510.3
+"Montana","1955",4920.8
+"Montana","1956",5172
+"Montana","1957",5426.8
+"Montana","1958",5657.3
+"Montana","1959",5569.5
+"Montana","1960",5805.4
+"Montana","1961",5818.4
+"Montana","1962",6805.3
+"Montana","1963",6766.3
+"Montana","1964",6910
+"Montana","1965",7425.3
+"Montana","1966",7958
+"Montana","1967",8116.4
+"Montana","1968",8513.4
+"Montana","1969",9402
+"Montana","1970",10416.8
+"Montana","1971",11149.1
+"Montana","1972",12921
+"Montana","1973",14980.9
+"Montana","1974",16279.7
+"Montana","1975",17914.9
+"Montana","1976",19225.9
+"Montana","1977",20791.6
+"Montana","1978",24362.2
+"Montana","1979",26194.7
+"Montana","1980",28844.5
+"Montana","1981",32777.4
+"Montana","1982",34542.6
+"Montana","1983",36307.6
+"Montana","1984",38411.2
+"Nebraska","1948",7820.2
+"Nebraska","1949",7086.4
+"Nebraska","1950",8402.9
+"Nebraska","1951",8774
+"Nebraska","1952",9423.1
+"Nebraska","1953",8987.9
+"Nebraska","1954",9612
+"Nebraska","1955",9304.6
+"Nebraska","1956",9598.1
+"Nebraska","1957",11130.4
+"Nebraska","1958",11659.3
+"Nebraska","1959",11800.1
+"Nebraska","1960",12561.2
+"Nebraska","1961",12857.3
+"Nebraska","1962",13973.9
+"Nebraska","1963",14364.1
+"Nebraska","1964",14765.6
+"Nebraska","1965",16243.6
+"Nebraska","1966",17441
+"Nebraska","1967",18051
+"Nebraska","1968",19261.3
+"Nebraska","1969",21517.2
+"Nebraska","1970",23193.5
+"Nebraska","1971",25475.2
+"Nebraska","1972",28209.9
+"Nebraska","1973",32903
+"Nebraska","1974",34260.3
+"Nebraska","1975",39065.8
+"Nebraska","1976",40869.7
+"Nebraska","1977",44292.3
+"Nebraska","1978",51243.5
+"Nebraska","1979",55336.6
+"Nebraska","1980",59032.8
+"Nebraska","1981",68562
+"Nebraska","1982",73682.9
+"Nebraska","1983",76187
+"Nebraska","1984",84858.8
+"Nevada","1948",1130.3
+"Nevada","1949",1172.8
+"Nevada","1950",1353.7
+"Nevada","1951",1555.5
+"Nevada","1952",1819
+"Nevada","1953",2007.9
+"Nevada","1954",2165.6
+"Nevada","1955",2519
+"Nevada","1956",2634.3
+"Nevada","1957",2828
+"Nevada","1958",2990.8
+"Nevada","1959",3272.2
+"Nevada","1960",3584.2
+"Nevada","1961",3972.5
+"Nevada","1962",4743.4
+"Nevada","1963",5319.9
+"Nevada","1964",5772.5
+"Nevada","1965",6180
+"Nevada","1966",6521.5
+"Nevada","1967",6927.2
+"Nevada","1968",8054.4
+"Nevada","1969",9114.5
+"Nevada","1970",10241.7
+"Nevada","1971",11441.5
+"Nevada","1972",12787.1
+"Nevada","1973",14520.3
+"Nevada","1974",16101
+"Nevada","1975",18175.9
+"Nevada","1976",20681.8
+"Nevada","1977",23911.6
+"Nevada","1978",28903
+"Nevada","1979",33498.3
+"Nevada","1980",38731.1
+"Nevada","1981",44047.4
+"Nevada","1982",47048.4
+"Nevada","1983",50120
+"Nevada","1984",54608.3
+"New England","1948",56233.2
+"New England","1949",55451.6
+"New England","1950",61312.8
+"New England","1951",68227.3
+"New England","1952",72510.9
+"New England","1953",77118.6
+"New England","1954",78261.6
+"New England","1955",83832.8
+"New England","1956",89604.7
+"New England","1957",94631.2
+"New England","1958",95599.6
+"New England","1959",101923.7
+"New England","1960",106170.3
+"New England","1961",111430.8
+"New England","1962",118170.4
+"New England","1963",123523.2
+"New England","1964",132252.2
+"New England","1965",141846.1
+"New England","1966",154001.7
+"New England","1967",167366.9
+"New England","1968",181163.3
+"New England","1969",200035.9
+"New England","1970",215659.5
+"New England","1971",229752.2
+"New England","1972",248973.4
+"New England","1973",271663.5
+"New England","1974",294555.3
+"New England","1975",317264.9
+"New England","1976",345026.8
+"New England","1977",377878.6
+"New England","1978",419821.6
+"New England","1979",469500.3
+"New England","1980",530841
+"New England","1981",593751.7
+"New England","1982",646935.6
+"New England","1983",698733.7
+"New England","1984",783398.3
+"New Hampshire","1948",2728.9
+"New Hampshire","1949",2764.6
+"New Hampshire","1950",2921.7
+"New Hampshire","1951",3255
+"New Hampshire","1952",3449.8
+"New Hampshire","1953",3702
+"New Hampshire","1954",3870
+"New Hampshire","1955",4165
+"New Hampshire","1956",4416.9
+"New Hampshire","1957",4725.3
+"New Hampshire","1958",4812.9
+"New Hampshire","1959",5239.5
+"New Hampshire","1960",5531.5
+"New Hampshire","1961",5824.6
+"New Hampshire","1962",6227.8
+"New Hampshire","1963",6498.6
+"New Hampshire","1964",6987.8
+"New Hampshire","1965",7535.3
+"New Hampshire","1966",8256.1
+"New Hampshire","1967",9019.2
+"New Hampshire","1968",9963.8
+"New Hampshire","1969",11125.3
+"New Hampshire","1970",11862.7
+"New Hampshire","1971",12880.5
+"New Hampshire","1972",14247.9
+"New Hampshire","1973",16053.3
+"New Hampshire","1974",17668.7
+"New Hampshire","1975",19209.3
+"New Hampshire","1976",21743.9
+"New Hampshire","1977",24585.7
+"New Hampshire","1978",28363
+"New Hampshire","1979",32447.4
+"New Hampshire","1980",37112.8
+"New Hampshire","1981",42068.3
+"New Hampshire","1982",46319
+"New Hampshire","1983",50852.7
+"New Hampshire","1984",57505.3
+"New Jersey","1948",31840.8
+"New Jersey","1949",32056.9
+"New Jersey","1950",35465.3
+"New Jersey","1951",40526.9
+"New Jersey","1952",43943.1
+"New Jersey","1953",47315.1
+"New Jersey","1954",48160.6
+"New Jersey","1955",51092.8
+"New Jersey","1956",55454
+"New Jersey","1957",59086.3
+"New Jersey","1958",58435
+"New Jersey","1959",62832.6
+"New Jersey","1960",66211.6
+"New Jersey","1961",69582.7
+"New Jersey","1962",74874.3
+"New Jersey","1963",78587.3
+"New Jersey","1964",84254.9
+"New Jersey","1965",90516.6
+"New Jersey","1966",98011.7
+"New Jersey","1967",105576
+"New Jersey","1968",115867.8
+"New Jersey","1969",130016.6
+"New Jersey","1970",141178
+"New Jersey","1971",152312.6
+"New Jersey","1972",165579.7
+"New Jersey","1973",180252.7
+"New Jersey","1974",195780.6
+"New Jersey","1975",211510.8
+"New Jersey","1976",229635.6
+"New Jersey","1977",251208.6
+"New Jersey","1978",278796.4
+"New Jersey","1979",309451
+"New Jersey","1980",348186.9
+"New Jersey","1981",389058.2
+"New Jersey","1982",420361.6
+"New Jersey","1983",453753.9
+"New Jersey","1984",502268.6
+"New Mexico","1948",2791.7
+"New Mexico","1949",3061
+"New Mexico","1950",3472.3
+"New Mexico","1951",4043.5
+"New Mexico","1952",4428.1
+"New Mexico","1953",4644.1
+"New Mexico","1954",4752
+"New Mexico","1955",5152.7
+"New Mexico","1956",5560.6
+"New Mexico","1957",6239.4
+"New Mexico","1958",6917.9
+"New Mexico","1959",7434.6
+"New Mexico","1960",7645.9
+"New Mexico","1961",8001.1
+"New Mexico","1962",8315.9
+"New Mexico","1963",8601.1
+"New Mexico","1964",9093
+"New Mexico","1965",9648.2
+"New Mexico","1966",10138.6
+"New Mexico","1967",10480
+"New Mexico","1968",11347.5
+"New Mexico","1969",12574.7
+"New Mexico","1970",13999.2
+"New Mexico","1971",15489.7
+"New Mexico","1972",17413.4
+"New Mexico","1973",19527.2
+"New Mexico","1974",21949.1
+"New Mexico","1975",25071.7
+"New Mexico","1976",27949.6
+"New Mexico","1977",31279.2
+"New Mexico","1978",35791.1
+"New Mexico","1979",40353.8
+"New Mexico","1980",45292
+"New Mexico","1981",51199.7
+"New Mexico","1982",56092.3
+"New Mexico","1983",60344.6
+"New Mexico","1984",65884.5
+"New York","1948",103403.1
+"New York","1949",103533.8
+"New York","1950",111069.9
+"New York","1951",120284.9
+"New York","1952",126116.1
+"New York","1953",134154.2
+"New York","1954",138562.1
+"New York","1955",147555.2
+"New York","1956",156763.6
+"New York","1957",166472.9
+"New York","1958",173186.6
+"New York","1959",183560.2
+"New York","1960",191757.3
+"New York","1961",200393.5
+"New York","1962",211413.8
+"New York","1963",220694.7
+"New York","1964",235757.8
+"New York","1965",250498.1
+"New York","1966",268961.4
+"New York","1967",290151.4
+"New York","1968",320247.2
+"New York","1969",334505.1
+"New York","1970",359581.8
+"New York","1971",384484
+"New York","1972",411334.3
+"New York","1973",438286.8
+"New York","1974",472258.5
+"New York","1975",509655.5
+"New York","1976",539923.3
+"New York","1977",582561.5
+"New York","1978",634334.8
+"New York","1979",693447.7
+"New York","1980",773033.9
+"New York","1981",862722.3
+"New York","1982",937672
+"New York","1983",1010732.9
+"New York","1984",1117934.4
+"North Carolina","1948",15472.5
+"North Carolina","1949",15304.6
+"North Carolina","1950",17812
+"North Carolina","1951",20050.5
+"North Carolina","1952",20649.8
+"North Carolina","1953",21485.9
+"North Carolina","1954",21972.6
+"North Carolina","1955",23815.4
+"North Carolina","1956",25382
+"North Carolina","1957",25548.1
+"North Carolina","1958",26953.3
+"North Carolina","1959",28868.3
+"North Carolina","1960",30470.3
+"North Carolina","1961",32257.7
+"North Carolina","1962",34644.6
+"North Carolina","1963",36439
+"North Carolina","1964",39473.2
+"North Carolina","1965",42684.4
+"North Carolina","1966",47420.3
+"North Carolina","1967",51268.8
+"North Carolina","1968",56542.7
+"North Carolina","1969",63432.5
+"North Carolina","1970",69281.7
+"North Carolina","1971",75427.2
+"North Carolina","1972",85276.1
+"North Carolina","1973",96698
+"North Carolina","1974",106615.4
+"North Carolina","1975",115771
+"North Carolina","1976",128529.2
+"North Carolina","1977",140832.4
+"North Carolina","1978",158944.6
+"North Carolina","1979",175633.3
+"North Carolina","1980",196987.8
+"North Carolina","1981",221986.8
+"North Carolina","1982",237680.3
+"North Carolina","1983",258577.8
+"North Carolina","1984",292504.7
+"North Dakota","1948",3390.6
+"North Dakota","1949",2938.8
+"North Dakota","1950",3437.5
+"North Dakota","1951",3576.9
+"North Dakota","1952",3285.3
+"North Dakota","1953",3342.3
+"North Dakota","1954",3438.3
+"North Dakota","1955",3797.3
+"North Dakota","1956",3959.5
+"North Dakota","1957",4069.6
+"North Dakota","1958",4681.5
+"North Dakota","1959",4342.3
+"North Dakota","1960",4841.1
+"North Dakota","1961",4436.9
+"North Dakota","1962",6219.6
+"North Dakota","1963",5792.9
+"North Dakota","1964",5762.8
+"North Dakota","1965",6708.9
+"North Dakota","1966",6788.4
+"North Dakota","1967",6796.4
+"North Dakota","1968",7113.4
+"North Dakota","1969",7962.3
+"North Dakota","1970",8409.4
+"North Dakota","1971",9696.8
+"North Dakota","1972",11549.6
+"North Dakota","1973",16147.3
+"North Dakota","1974",15992.7
+"North Dakota","1975",16725.9
+"North Dakota","1976",16407.6
+"North Dakota","1977",17044.4
+"North Dakota","1978",21431.5
+"North Dakota","1979",22029.7
+"North Dakota","1980",21079.5
+"North Dakota","1981",27597.7
+"North Dakota","1982",29813
+"North Dakota","1983",31324.5
+"North Dakota","1984",33833
+"Ohio","1948",48549.9
+"Ohio","1949",46442
+"Ohio","1950",51420.3
+"Ohio","1951",59351.7
+"Ohio","1952",63647
+"Ohio","1953",69799.7
+"Ohio","1954",70052.7
+"Ohio","1955",75654.8
+"Ohio","1956",80764.7
+"Ohio","1957",84927.7
+"Ohio","1958",84251.9
+"Ohio","1959",90160.7
+"Ohio","1960",93821.6
+"Ohio","1961",95639.6
+"Ohio","1962",100827
+"Ohio","1963",105061.5
+"Ohio","1964",112111.5
+"Ohio","1965",121206.9
+"Ohio","1966",132227.5
+"Ohio","1967",138519.5
+"Ohio","1968",152827.2
+"Ohio","1969",167204.1
+"Ohio","1970",176567.8
+"Ohio","1971",187921.5
+"Ohio","1972",203871.6
+"Ohio","1973",226209.6
+"Ohio","1974",247700.8
+"Ohio","1975",264648.7
+"Ohio","1976",290390.1
+"Ohio","1977",321588.8
+"Ohio","1978",355418.8
+"Ohio","1979",392544.1
+"Ohio","1980",428738
+"Ohio","1981",466609.5
+"Ohio","1982",488325.9
+"Ohio","1983",516530.1
+"Ohio","1984",570644.6
+"Oklahoma","1948",9562.5
+"Oklahoma","1949",9939.1
+"Oklahoma","1950",10375.5
+"Oklahoma","1951",11662.5
+"Oklahoma","1952",12768.1
+"Oklahoma","1953",13249.4
+"Oklahoma","1954",13289.9
+"Oklahoma","1955",14040.4
+"Oklahoma","1956",14929.6
+"Oklahoma","1957",15621.1
+"Oklahoma","1958",16833
+"Oklahoma","1959",17569.2
+"Oklahoma","1960",18447.2
+"Oklahoma","1961",19096.8
+"Oklahoma","1962",19940.8
+"Oklahoma","1963",20604.7
+"Oklahoma","1964",22075.8
+"Oklahoma","1965",23653.4
+"Oklahoma","1966",25372
+"Oklahoma","1967",27717.8
+"Oklahoma","1968",30357.7
+"Oklahoma","1969",33819.3
+"Oklahoma","1970",37302.2
+"Oklahoma","1971",40654.5
+"Oklahoma","1972",44613.6
+"Oklahoma","1973",50611.6
+"Oklahoma","1974",56318.3
+"Oklahoma","1975",62942.9
+"Oklahoma","1976",69394.7
+"Oklahoma","1977",77183.8
+"Oklahoma","1978",87584.2
+"Oklahoma","1979",101659.2
+"Oklahoma","1980",117115
+"Oklahoma","1981",136816.4
+"Oklahoma","1982",152703
+"Oklahoma","1983",156308.9
+"Oklahoma","1984",167708.1
+"Oregon","1948",9421.7
+"Oregon","1949",9394.7
+"Oregon","1950",10387.7
+"Oregon","1951",11674.5
+"Oregon","1952",12408.2
+"Oregon","1953",12637.4
+"Oregon","1954",12546.1
+"Oregon","1955",13589.2
+"Oregon","1956",14575.6
+"Oregon","1957",14607.5
+"Oregon","1958",14994.5
+"Oregon","1959",16214.9
+"Oregon","1960",16767.3
+"Oregon","1961",17403.3
+"Oregon","1962",18486.2
+"Oregon","1963",19466.7
+"Oregon","1964",20945.3
+"Oregon","1965",22723.7
+"Oregon","1966",24473.5
+"Oregon","1967",25948.7
+"Oregon","1968",28250.3
+"Oregon","1969",31328.7
+"Oregon","1970",34148.5
+"Oregon","1971",37531.2
+"Oregon","1972",42045.7
+"Oregon","1973",47381.8
+"Oregon","1974",53727.1
+"Oregon","1975",59678.7
+"Oregon","1976",67286.8
+"Oregon","1977",75249.9
+"Oregon","1978",86253.8
+"Oregon","1979",97569
+"Oregon","1980",108121.5
+"Oregon","1981",116678.5
+"Oregon","1982",120024.7
+"Oregon","1983",127624.5
+"Oregon","1984",138340.1
+"Pennsylvania","1948",59119.2
+"Pennsylvania","1949",58301.8
+"Pennsylvania","1950",65229.2
+"Pennsylvania","1951",71911.1
+"Pennsylvania","1952",75504.5
+"Pennsylvania","1953",81167.4
+"Pennsylvania","1954",79384.2
+"Pennsylvania","1955",84133.1
+"Pennsylvania","1956",90902.2
+"Pennsylvania","1957",95681.5
+"Pennsylvania","1958",96187.4
+"Pennsylvania","1959",100959.4
+"Pennsylvania","1960",104474.7
+"Pennsylvania","1961",106741.9
+"Pennsylvania","1962",111381.7
+"Pennsylvania","1963",115633.2
+"Pennsylvania","1964",123661
+"Pennsylvania","1965",132633.9
+"Pennsylvania","1966",143028.7
+"Pennsylvania","1967",153196.9
+"Pennsylvania","1968",166551.5
+"Pennsylvania","1969",181384.5
+"Pennsylvania","1970",195374.8
+"Pennsylvania","1971",207341.8
+"Pennsylvania","1972",226319.1
+"Pennsylvania","1973",248131.8
+"Pennsylvania","1974",272532.7
+"Pennsylvania","1975",297891
+"Pennsylvania","1976",325132.9
+"Pennsylvania","1977",356696.4
+"Pennsylvania","1978",393087.9
+"Pennsylvania","1979",434824.3
+"Pennsylvania","1980",476353.5
+"Pennsylvania","1981",525928.5
+"Pennsylvania","1982",561896.5
+"Pennsylvania","1983",588723.3
+"Pennsylvania","1984",635901
+"Plains","1948",79431.6
+"Plains","1949",73378.5
+"Plains","1950",82894.6
+"Plains","1951",90707.7
+"Plains","1952",96008.6
+"Plains","1953",97450.2
+"Plains","1954",101414.4
+"Plains","1955",103678.9
+"Plains","1956",109069.2
+"Plains","1957",116786.7
+"Plains","1958",123725.6
+"Plains","1959",126984
+"Plains","1960",133395.7
+"Plains","1961",138353.9
+"Plains","1962",147688.5
+"Plains","1963",153610.9
+"Plains","1964",160150.1
+"Plains","1965",175715.1
+"Plains","1966",189000.2
+"Plains","1967",198331.6
+"Plains","1968",216396.5
+"Plains","1969",237262.5
+"Plains","1970",257336.4
+"Plains","1971",277067.4
+"Plains","1972",306041.2
+"Plains","1973",356995.6
+"Plains","1974",377795.2
+"Plains","1975",414580.2
+"Plains","1976",444390.8
+"Plains","1977",491197
+"Plains","1978",555925.6
+"Plains","1979",613316.5
+"Plains","1980",662904.3
+"Plains","1981",749944.6
+"Plains","1982",798825.6
+"Plains","1983",836694.9
+"Plains","1984",933054.4
+"Rhode Island","1948",4620.8
+"Rhode Island","1949",4529.4
+"Rhode Island","1950",5034.3
+"Rhode Island","1951",5578.7
+"Rhode Island","1952",5885.2
+"Rhode Island","1953",6293.1
+"Rhode Island","1954",6304.4
+"Rhode Island","1955",6716.6
+"Rhode Island","1956",6993.5
+"Rhode Island","1957",7181.1
+"Rhode Island","1958",7540.7
+"Rhode Island","1959",7942.5
+"Rhode Island","1960",8062.7
+"Rhode Island","1961",8431.8
+"Rhode Island","1962",9067.8
+"Rhode Island","1963",9472.5
+"Rhode Island","1964",10087.2
+"Rhode Island","1965",10891.3
+"Rhode Island","1966",11892.6
+"Rhode Island","1967",12892.9
+"Rhode Island","1968",14088.6
+"Rhode Island","1969",14967.4
+"Rhode Island","1970",16371.9
+"Rhode Island","1971",17346.4
+"Rhode Island","1972",18887.8
+"Rhode Island","1973",20178.3
+"Rhode Island","1974",21155.6
+"Rhode Island","1975",22969.7
+"Rhode Island","1976",25089.9
+"Rhode Island","1977",27459.8
+"Rhode Island","1978",30124.6
+"Rhode Island","1979",33452.9
+"Rhode Island","1980",37562.6
+"Rhode Island","1981",41855.1
+"Rhode Island","1982",45084.1
+"Rhode Island","1983",48741.7
+"Rhode Island","1984",53525.4
+"Rocky Mountain","1948",19173.3
+"Rocky Mountain","1949",19238.5
+"Rocky Mountain","1950",21517.8
+"Rocky Mountain","1951",24829.1
+"Rocky Mountain","1952",26339
+"Rocky Mountain","1953",26500.7
+"Rocky Mountain","1954",26803.3
+"Rocky Mountain","1955",29147
+"Rocky Mountain","1956",31755.7
+"Rocky Mountain","1957",34239.8
+"Rocky Mountain","1958",35181
+"Rocky Mountain","1959",37148.1
+"Rocky Mountain","1960",39276.9
+"Rocky Mountain","1961",41626.4
+"Rocky Mountain","1962",44873.6
+"Rocky Mountain","1963",46331.7
+"Rocky Mountain","1964",48478.9
+"Rocky Mountain","1965",52038.3
+"Rocky Mountain","1966",55168.8
+"Rocky Mountain","1967",58613.3
+"Rocky Mountain","1968",63605.7
+"Rocky Mountain","1969",71223
+"Rocky Mountain","1970",79725.7
+"Rocky Mountain","1971",88727.1
+"Rocky Mountain","1972",100546.4
+"Rocky Mountain","1973",114961.6
+"Rocky Mountain","1974",129558.3
+"Rocky Mountain","1975",143172.3
+"Rocky Mountain","1976",158311.8
+"Rocky Mountain","1977",176522.2
+"Rocky Mountain","1978",204317.4
+"Rocky Mountain","1979",230742.5
+"Rocky Mountain","1980",261930.1
+"Rocky Mountain","1981",298029.2
+"Rocky Mountain","1982",322100
+"Rocky Mountain","1983",344295.8
+"Rocky Mountain","1984",372876.7
+"South Carolina","1948",7394.8
+"South Carolina","1949",7180
+"South Carolina","1950",7969.6
+"South Carolina","1951",10036.2
+"South Carolina","1952",10784.8
+"South Carolina","1953",11112.7
+"South Carolina","1954",10534.3
+"South Carolina","1955",11192.3
+"South Carolina","1956",11642.7
+"South Carolina","1957",12164.3
+"South Carolina","1958",12603.3
+"South Carolina","1959",13600.6
+"South Carolina","1960",14280.5
+"South Carolina","1961",14993.6
+"South Carolina","1962",16073.5
+"South Carolina","1963",17008
+"South Carolina","1964",18269.1
+"South Carolina","1965",20190.7
+"South Carolina","1966",22688.2
+"South Carolina","1967",24482.2
+"South Carolina","1968",27185.1
+"South Carolina","1969",30417.5
+"South Carolina","1970",33521.7
+"South Carolina","1971",36723.7
+"South Carolina","1972",41235.5
+"South Carolina","1973",46769.1
+"South Carolina","1974",52938.6
+"South Carolina","1975",57577.2
+"South Carolina","1976",64385
+"South Carolina","1977",70370
+"South Carolina","1978",79516.6
+"South Carolina","1979",89133.9
+"South Carolina","1980",99867.8
+"South Carolina","1981",112481.5
+"South Carolina","1982",119577.7
+"South Carolina","1983",129789
+"South Carolina","1984",144732.7
+"South Dakota","1948",3680.3
+"South Dakota","1949",2830.4
+"South Dakota","1950",3400.7
+"South Dakota","1951",3982.6
+"South Dakota","1952",3534
+"South Dakota","1953",3843.2
+"South Dakota","1954",3952.6
+"South Dakota","1955",3689.1
+"South Dakota","1956",3949.8
+"South Dakota","1957",4627.6
+"South Dakota","1958",4752.1
+"South Dakota","1959",4323.7
+"South Dakota","1960",5299.5
+"South Dakota","1961",5332.1
+"South Dakota","1962",6075.6
+"South Dakota","1963",5892.6
+"South Dakota","1964",5780.7
+"South Dakota","1965",6503.4
+"South Dakota","1966",7031.8
+"South Dakota","1967",7144.1
+"South Dakota","1968",7657
+"South Dakota","1969",8305.8
+"South Dakota","1970",9029.5
+"South Dakota","1971",9892.3
+"South Dakota","1972",11421.8
+"South Dakota","1973",14421.1
+"South Dakota","1974",14448.1
+"South Dakota","1975",15888.3
+"South Dakota","1976",15731.3
+"South Dakota","1977",17850.2
+"South Dakota","1978",20569.9
+"South Dakota","1979",22659.6
+"South Dakota","1980",22851.2
+"South Dakota","1981",26607.3
+"South Dakota","1982",28040.9
+"South Dakota","1983",29082.3
+"South Dakota","1984",33089
+"Southeast","1948",130366.8
+"Southeast","1949",128852.6
+"Southeast","1950",144277.5
+"Southeast","1951",165702.4
+"Southeast","1952",177366
+"Southeast","1953",185739.6
+"Southeast","1954",185890.8
+"Southeast","1955",201787.7
+"Southeast","1956",218326.4
+"Southeast","1957",230544
+"Southeast","1958",241314.3
+"Southeast","1959",258411.3
+"Southeast","1960",267720.1
+"Southeast","1961",282373.3
+"Southeast","1962",301561.5
+"Southeast","1963",321698.5
+"Southeast","1964",347338.5
+"Southeast","1965",377471.6
+"Southeast","1966",413948.9
+"Southeast","1967",448935.5
+"Southeast","1968",497390.2
+"Southeast","1969",555757.7
+"Southeast","1970",610200.2
+"Southeast","1971",673340.7
+"Southeast","1972",756635.9
+"Southeast","1973",859823.7
+"Southeast","1974",957912.3
+"Southeast","1975",1049032.8
+"Southeast","1976",1165838.7
+"Southeast","1977",1293941.6
+"Southeast","1978",1470380.1
+"Southeast","1979",1651720.9
+"Southeast","1980",1861736
+"Southeast","1981",2107046.3
+"Southeast","1982",2258201.9
+"Southeast","1983",2431780.2
+"Southeast","1984",2702170.3
+"Southwest","1948",53342.6
+"Southwest","1949",57052.8
+"Southwest","1950",61415.9
+"Southwest","1951",70404.3
+"Southwest","1952",76611.1
+"Southwest","1953",78969.9
+"Southwest","1954",80977.4
+"Southwest","1955",87110
+"Southwest","1956",93542.2
+"Southwest","1957",100209.3
+"Southwest","1958",104823.9
+"Southwest","1959",111194.6
+"Southwest","1960",115267.4
+"Southwest","1961",121721.3
+"Southwest","1962",127984.9
+"Southwest","1963",133448.5
+"Southwest","1964",142962.5
+"Southwest","1965",153383.7
+"Southwest","1966",166823.5
+"Southwest","1967",181559.1
+"Southwest","1968",202070.1
+"Southwest","1969",226002.1
+"Southwest","1970",250153.9
+"Southwest","1971",273631.3
+"Southwest","1972",304579.4
+"Southwest","1973",346327.7
+"Southwest","1974",389740.9
+"Southwest","1975",440272.5
+"Southwest","1976",493507.4
+"Southwest","1977",550964.6
+"Southwest","1978",634786.9
+"Southwest","1979",732669.4
+"Southwest","1980",840878.7
+"Southwest","1981",982174
+"Southwest","1982",1079755.4
+"Southwest","1983",1150798.4
+"Southwest","1984",1261150.7
+"Tennessee","1948",12472.5
+"Tennessee","1949",12416.4
+"Tennessee","1950",13792.9
+"Tennessee","1951",15376.2
+"Tennessee","1952",16085.8
+"Tennessee","1953",17254.5
+"Tennessee","1954",17472.4
+"Tennessee","1955",18448.5
+"Tennessee","1956",19782.9
+"Tennessee","1957",20700.5
+"Tennessee","1958",21558.2
+"Tennessee","1959",23102.7
+"Tennessee","1960",23723.9
+"Tennessee","1961",25111.1
+"Tennessee","1962",26670.3
+"Tennessee","1963",28287.2
+"Tennessee","1964",30416.8
+"Tennessee","1965",33145.9
+"Tennessee","1966",36492.8
+"Tennessee","1967",39079.6
+"Tennessee","1968",43575.2
+"Tennessee","1969",47262.4
+"Tennessee","1970",51397.5
+"Tennessee","1971",56752.5
+"Tennessee","1972",63882.4
+"Tennessee","1973",72566.6
+"Tennessee","1974",80294.5
+"Tennessee","1975",87574.5
+"Tennessee","1976",98078.7
+"Tennessee","1977",108703
+"Tennessee","1978",123917.1
+"Tennessee","1979",138174.9
+"Tennessee","1980",152312
+"Tennessee","1981",169533.3
+"Tennessee","1982",180184.9
+"Tennessee","1983",192228.4
+"Tennessee","1984",213925.7
+"Texas","1948",37250.1
+"Texas","1949",40217.7
+"Texas","1950",43310.5
+"Texas","1951",49431.2
+"Texas","1952",53424.5
+"Texas","1953",54716.8
+"Texas","1954",56344.9
+"Texas","1955",60679.8
+"Texas","1956",64894.1
+"Texas","1957",69420.6
+"Texas","1958",71584.1
+"Texas","1959",75717.6
+"Texas","1960",77751.1
+"Texas","1961",82184
+"Texas","1962",86329.1
+"Texas","1963",90156.3
+"Texas","1964",96685.1
+"Texas","1965",104066.8
+"Texas","1966",113874.1
+"Texas","1967",124404.1
+"Texas","1968",138615.4
+"Texas","1969",154299.8
+"Texas","1970",169987.9
+"Texas","1971",184464.9
+"Texas","1972",204693.7
+"Texas","1973",232452.1
+"Texas","1974",262129.1
+"Texas","1975",298986.7
+"Texas","1976",336910.4
+"Texas","1977",375914.4
+"Texas","1978",433173.2
+"Texas","1979",498710.1
+"Texas","1980",572561.3
+"Texas","1981",673169.6
+"Texas","1982",742170.6
+"Texas","1983",792334.6
+"Texas","1984",867335.7
+"United States","1948",845980
+"United States","1949",836036.1
+"United States","1950",931342.6
+"United States","1951",1049322.9
+"United States","1952",1121343.2
+"United States","1953",1188571.6
+"United States","1954",1201208.2
+"United States","1955",1288537.3
+"United States","1956",1384334.3
+"United States","1957",1464084.9
+"United States","1958",1504605.2
+"United States","1959",1601315.1
+"United States","1960",1670800.1
+"United States","1961",1744188
+"United States","1962",1856000
+"United States","1963",1951120
+"United States","1964",2090532
+"United States","1965",2257776
+"United States","1966",2450852
+"United States","1967",2627312
+"United States","1968",2883508
+"United States","1969",3164916
+"United States","1970",3422100
+"United States","1971",3698452
+"United States","1972",4065632
+"United States","1973",4533872.1
+"United States","1974",4979648
+"United States","1975",5450020
+"United States","1976",5982816
+"United States","1977",6606528.1
+"United States","1978",7423396
+"United States","1979",8293028.1
+"United States","1980",9252640.1
+"United States","1981",10371660
+"United States","1982",11119176.1
+"United States","1983",11874704.1
+"United States","1984",13117952
+"Utah","1948",3361
+"Utah","1949",3477
+"Utah","1950",3872.5
+"Utah","1951",4518.9
+"Utah","1952",4798.3
+"Utah","1953",4928.2
+"Utah","1954",4920.1
+"Utah","1955",5442.6
+"Utah","1956",5937.8
+"Utah","1957",6441.2
+"Utah","1958",6667.6
+"Utah","1959",7149.2
+"Utah","1960",7639.2
+"Utah","1961",8187.6
+"Utah","1962",8912.3
+"Utah","1963",9260.5
+"Utah","1964",9747.8
+"Utah","1965",10332.8
+"Utah","1966",11005.3
+"Utah","1967",11613.9
+"Utah","1968",12446.4
+"Utah","1969",13627.5
+"Utah","1970",15165.7
+"Utah","1971",16972.4
+"Utah","1972",18965.6
+"Utah","1973",21131.5
+"Utah","1974",23641.6
+"Utah","1975",26362.1
+"Utah","1976",29854.5
+"Utah","1977",33761.8
+"Utah","1978",38846.6
+"Utah","1979",43889.7
+"Utah","1980",49277.2
+"Utah","1981",55570.8
+"Utah","1982",60267.8
+"Utah","1983",64540.8
+"Utah","1984",71281.5
+"Vermont","1948",1751.6
+"Vermont","1949",1692.4
+"Vermont","1950",1802.4
+"Vermont","1951",2062.2
+"Vermont","1952",2114.7
+"Vermont","1953",2217.1
+"Vermont","1954",2248.3
+"Vermont","1955",2339.7
+"Vermont","1956",2558.7
+"Vermont","1957",2652.5
+"Vermont","1958",2705.2
+"Vermont","1959",2908.4
+"Vermont","1960",3073.2
+"Vermont","1961",3203
+"Vermont","1962",3361.9
+"Vermont","1963",3485.1
+"Vermont","1964",3734.7
+"Vermont","1965",4089
+"Vermont","1966",4639.1
+"Vermont","1967",5024.3
+"Vermont","1968",5529.8
+"Vermont","1969",6061.8
+"Vermont","1970",6655.7
+"Vermont","1971",7209.1
+"Vermont","1972",7956.2
+"Vermont","1973",8735.6
+"Vermont","1974",9456.1
+"Vermont","1975",10367.2
+"Vermont","1976",11504.1
+"Vermont","1977",12480.5
+"Vermont","1978",14293.6
+"Vermont","1979",16060.5
+"Vermont","1980",18021.3
+"Vermont","1981",20276.6
+"Vermont","1982",22009.1
+"Vermont","1983",23631
+"Vermont","1984",25985
+"Virginia","1948",15416.4
+"Virginia","1949",15601.8
+"Virginia","1950",17596.2
+"Virginia","1951",20770.7
+"Virginia","1952",22630.8
+"Virginia","1953",23433.8
+"Virginia","1954",23840
+"Virginia","1955",25172.9
+"Virginia","1956",27237
+"Virginia","1957",28717.4
+"Virginia","1958",29665.3
+"Virginia","1959",31701.6
+"Virginia","1960",32692.7
+"Virginia","1961",34822.2
+"Virginia","1962",37582.8
+"Virginia","1963",40426.4
+"Virginia","1964",44604.2
+"Virginia","1965",48150
+"Virginia","1966",52106.9
+"Virginia","1967",57004.7
+"Virginia","1968",63072.9
+"Virginia","1969",71390.7
+"Virginia","1970",77486.6
+"Virginia","1971",85643.8
+"Virginia","1972",95056.6
+"Virginia","1973",106450.9
+"Virginia","1974",117958.4
+"Virginia","1975",129519.1
+"Virginia","1976",143083.3
+"Virginia","1977",158524.8
+"Virginia","1978",179961.6
+"Virginia","1979",200728.2
+"Virginia","1980",226906
+"Virginia","1981",254792.7
+"Virginia","1982",275419.1
+"Virginia","1983",296955.9
+"Virginia","1984",330552.9
+"Washington","1948",15135.5
+"Washington","1949",15198.7
+"Washington","1950",17159.6
+"Washington","1951",18960.4
+"Washington","1952",20204.7
+"Washington","1953",21386.1
+"Washington","1954",21970.7
+"Washington","1955",23140.1
+"Washington","1956",24304
+"Washington","1957",25837.1
+"Washington","1958",26353.2
+"Washington","1959",27979
+"Washington","1960",28992
+"Washington","1961",30437.3
+"Washington","1962",32812.3
+"Washington","1963",33575.8
+"Washington","1964",35149.4
+"Washington","1965",37860.5
+"Washington","1966",42773.4
+"Washington","1967",46841.7
+"Washington","1968",52139.3
+"Washington","1969",56943.1
+"Washington","1970",60146.7
+"Washington","1971",63354.2
+"Washington","1972",68316.1
+"Washington","1973",76944.2
+"Washington","1974",87306.9
+"Washington","1975",98878.3
+"Washington","1976",109595.1
+"Washington","1977",121647.9
+"Washington","1978",141466.4
+"Washington","1979",163022
+"Washington","1980",184967.7
+"Washington","1981",205565.1
+"Washington","1982",218425.4
+"Washington","1983",233125.9
+"Washington","1984",249724.3
+"West Virginia","1948",8396.3
+"West Virginia","1949",7841.5
+"West Virginia","1950",8429.4
+"West Virginia","1951",9356.3
+"West Virginia","1952",9741.2
+"West Virginia","1953",9823.7
+"West Virginia","1954",9317.6
+"West Virginia","1955",9908
+"West Virginia","1956",10979.2
+"West Virginia","1957",11770
+"West Virginia","1958",11711.8
+"West Virginia","1959",12114.9
+"West Virginia","1960",12302.9
+"West Virginia","1961",12469
+"West Virginia","1962",13022.5
+"West Virginia","1963",13600.5
+"West Virginia","1964",14512.3
+"West Virginia","1965",15511.2
+"West Virginia","1966",16461
+"West Virginia","1967",17442.1
+"West Virginia","1968",18491.2
+"West Virginia","1969",19776.6
+"West Virginia","1970",22047.4
+"West Virginia","1971",24206.2
+"West Virginia","1972",26802.8
+"West Virginia","1973",29332.9
+"West Virginia","1974",32514.9
+"West Virginia","1975",36744.5
+"West Virginia","1976",40964.4
+"West Virginia","1977",45829.1
+"West Virginia","1978",51010.7
+"West Virginia","1979",56890.2
+"West Virginia","1980",62530.7
+"West Virginia","1981",68204.7
+"West Virginia","1982",72277.5
+"West Virginia","1983",74200.9
+"West Virginia","1984",79762.9
+"Wisconsin","1948",19038.5
+"Wisconsin","1949",18867.1
+"Wisconsin","1950",20836.1
+"Wisconsin","1951",24067.8
+"Wisconsin","1952",25175.4
+"Wisconsin","1953",25942.5
+"Wisconsin","1954",25774.4
+"Wisconsin","1955",27822.7
+"Wisconsin","1956",30046.7
+"Wisconsin","1957",31507.6
+"Wisconsin","1958",32106.3
+"Wisconsin","1959",34810.8
+"Wisconsin","1960",35977
+"Wisconsin","1961",37129.6
+"Wisconsin","1962",39238.6
+"Wisconsin","1963",40540.9
+"Wisconsin","1964",43637.8
+"Wisconsin","1965",47193.6
+"Wisconsin","1966",51553.7
+"Wisconsin","1967",54409
+"Wisconsin","1968",59585.2
+"Wisconsin","1969",65698.4
+"Wisconsin","1970",70595
+"Wisconsin","1971",75836.9
+"Wisconsin","1972",82926.3
+"Wisconsin","1973",92631.4
+"Wisconsin","1974",101745.9
+"Wisconsin","1975",111487.9
+"Wisconsin","1976",122436.5
+"Wisconsin","1977",136841.5
+"Wisconsin","1978",152839.4
+"Wisconsin","1979",171190.4
+"Wisconsin","1980",189128
+"Wisconsin","1981",206453.5
+"Wisconsin","1982",217849.2
+"Wisconsin","1983",228786.8
+"Wisconsin","1984",251652.6
+"Wyoming","1948",1759.1
+"Wyoming","1949",1885.3
+"Wyoming","1950",2078.4
+"Wyoming","1951",2354.5
+"Wyoming","1952",2328.1
+"Wyoming","1953",2326.2
+"Wyoming","1954",2268.2
+"Wyoming","1955",2463.4
+"Wyoming","1956",2640.1
+"Wyoming","1957",2805.4
+"Wyoming","1958",2844.5
+"Wyoming","1959",3010
+"Wyoming","1960",3154.1
+"Wyoming","1961",3317.2
+"Wyoming","1962",3435.9
+"Wyoming","1963",3515.5
+"Wyoming","1964",3625.2
+"Wyoming","1965",3742.7
+"Wyoming","1966",3833.3
+"Wyoming","1967",4101.6
+"Wyoming","1968",4374.5
+"Wyoming","1969",4874.3
+"Wyoming","1970",5391.7
+"Wyoming","1971",5990.2
+"Wyoming","1972",6738.1
+"Wyoming","1973",7874.5
+"Wyoming","1974",9210.8
+"Wyoming","1975",10429.5
+"Wyoming","1976",11561.5
+"Wyoming","1977",13502.6
+"Wyoming","1978",16134.8
+"Wyoming","1979",18864.3
+"Wyoming","1980",22025.3
+"Wyoming","1981",25199.2
+"Wyoming","1982",26467.4
+"Wyoming","1983",26272.3
+"Wyoming","1984",27428.7

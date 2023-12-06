@@ -5,7 +5,7 @@ dropbox
 cd blue_sky_history
 
 * Load up the data from OpenAPI API
-import delimited using "public_release/index/master_API_output.csv", delimiter(",") clear varnames(1) bindquote(strict)  
+import delimited using "public_release/index/master_API_output.csv", delimiter(",") clear varnames(1) bindquote(strict) maxquotedrows(200)
 
 drop v12
 

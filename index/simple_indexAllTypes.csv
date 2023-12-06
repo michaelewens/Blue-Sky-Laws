@@ -1,296 +1,1234 @@
 year,state,bsl_index
+1951,Alabama,100
+1953,Alabama,100
+1957,Alabama,100
+1973,Alabama,100
+1974,Alabama,100
+1975,Alabama,100
+1976,Alabama,100
+1979,Alabama,100
+1981,Alabama,100
+1955,Alaska,100
+1957,Alaska,100
+1972,Alaska,100
+1951,Arizona,100
+1952,Arizona,101
+1953,Arizona,101
+1955,Arizona,102
+1969,Arizona,103
+1949,Arkansas,100
+1976,Arkansas,100
+1977,Arkansas,101
+1979,Arkansas,101
+1951,California,100
+1953,California,100
+1968,California,101
+1969,California,102
+1970,California,103
+1971,California,104
+1972,California,103
+1973,California,104
+1977,California,103
+1979,California,103
+1981,California,102
+1951,Colorado,100
+1953,Colorado,100
+1969,Colorado,101
+1973,Colorado,100
+1975,Colorado,101
+1979,Colorado,101
+1981,Colorado,100
+1950,Connecticut,100
+1971,Connecticut,100
+1972,Connecticut,100
+1974,Connecticut,101
+1976,Connecticut,102
+1982,Connecticut,102
+1968,Delaware,100
+1974,Delaware,101
+1953,District of Columbia,100
+1966,District of Columbia,100
+1969,District of Columbia,100
+1950,Florida,100
+1951,Florida,101
+1953,Florida,102
+1956,Florida,103
+1957,Florida,103
+1971,Florida,103
+1972,Florida,103
+1973,Florida,103
+1974,Florida,103
+1975,Florida,103
+1976,Florida,103
+1977,Florida,103
+1978,Florida,103
+1979,Florida,103
+1980,Florida,103
+1981,Florida,103
+1972,Georgia,100
+1975,Georgia,101
+1977,Georgia,102
+1979,Georgia,102
+1982,Georgia,102
+1955,Hawaii,100
+1957,Hawaii,100
+1975,Hawaii,101
+1975,Idaho,100
+1979,Idaho,100
+1955,Illinois,100
+1971,Illinois,100
+1975,Illinois,101
+1977,Illinois,101
+1978,Illinois,101
+1979,Illinois,102
+1981,Illinois,102
+1982,Illinois,102
+1953,Indiana,100
+1971,Indiana,101
+1972,Indiana,103
+1975,Indiana,105
+1976,Indiana,105
+1982,Indiana,105
+1950,Iowa,100
+1974,Iowa,100
+1969,Kansas,100
+1951,Kentucky,100
+1953,Kentucky,100
+1957,Kentucky,100
+1973,Kentucky,100
+1975,Kentucky,102
+1977,Kentucky,102
+1979,Kentucky,102
+1981,Kentucky,102
+1951,Louisiana,100
+1953,Louisiana,100
+1957,Louisiana,100
+1961,Louisiana,101
+1972,Louisiana,101
+1973,Louisiana,101
+1974,Louisiana,101
+1975,Louisiana,101
+1976,Louisiana,101
+1977,Louisiana,101
+1978,Louisiana,101
+1979,Louisiana,101
+1981,Louisiana,101
+1982,Louisiana,101
+1951,Maine,100
+1974,Maine,100
+1976,Maine,100
+1951,Maryland,100
+1953,Maryland,100
+1966,Maryland,100
+1967,Maryland,101
+1974,Maryland,102
+1976,Maryland,103
+1951,Massachusetts,100
+1952,Massachusetts,100
+1953,Massachusetts,100
+1961,Massachusetts,100
+1971,Massachusetts,100
+1972,Massachusetts,99
+1976,Massachusetts,100
+1979,Massachusetts,100
+1982,Massachusetts,100
+1953,Michigan,100
+1955,Michigan,101
+1967,Michigan,102
+1969,Michigan,103
+1971,Michigan,105
+1972,Michigan,108
+1975,Michigan,108
+1976,Michigan,109
+1978,Michigan,109
+1969,Minnesota,100
+1971,Minnesota,101
+1972,Minnesota,104
+1975,Minnesota,103
+1977,Minnesota,103
+1978,Minnesota,103
+1950,Mississippi,100
+1951,Mississippi,100
+1953,Mississippi,100
+1956,Mississippi,100
+1957,Mississippi,100
+1950,Missouri,100
+1968,Missouri,101
+1969,Missouri,102
+1970,Missouri,102
+1971,Missouri,104
+1972,Missouri,104
+1975,Missouri,105
+1979,Missouri,105
+1982,Missouri,104
+1950,Montana,100
+1976,Montana,100
+1949,Nebraska,100
+1967,Nebraska,97
+1977,Nebraska,98
+1951,Nevada,100
+1970,Nevada,99
+1971,Nevada,99
+1974,Nevada,99
+1976,Nevada,99
+1974,New Hampshire,100
+1976,New Hampshire,100
+1981,New Hampshire,101
+1982,New Hampshire,101
+1951,New Jersey,100
+1953,New Jersey,100
+1970,New Jersey,101
+1977,New Jersey,102
+1951,New Mexico,100
+1951,New York,100
+1952,New York,99
+1953,New York,99
+1956,New York,100
+1970,New York,100
+1971,New York,100
+1972,New York,99
+1974,New York,100
+1977,New York,100
+1979,New York,100
+1980,New York,100
+1981,New York,100
+1950,North Carolina,100
+1957,North Carolina,100
+1978,North Carolina,100
+1982,North Carolina,100
+1950,North Dakota,100
+1951,North Dakota,101
+1974,North Dakota,101
+1976,North Dakota,100
+1961,Ohio,100
+1975,Ohio,100
+1981,Ohio,101
+1982,Ohio,101
+1968,Oklahoma,100
+1969,Oklahoma,101
+1974,Oklahoma,101
+1975,Oklahoma,102
+1977,Oklahoma,102
+1971,Oregon,100
+1974,Oregon,100
+1976,Oregon,100
+1981,Oregon,100
+1971,Pennsylvania,100
+1972,Pennsylvania,98
+1951,Rhode Island,100
+1953,Rhode Island,100
+1951,South Carolina,100
+1953,South Carolina,100
+1975,South Carolina,101
+1950,South Dakota,100
+1955,South Dakota,101
+1975,South Dakota,102
+1951,Tennessee,100
+1969,Tennessee,100
+1972,Tennessee,100
+1973,Tennessee,100
+1975,Tennessee,100
+1955,Texas,100
+1969,Texas,101
+1970,Texas,101
+1971,Texas,101
+1974,Texas,101
+1976,Texas,101
+1977,Texas,101
+1979,Texas,101
+1981,Texas,102
+1950,Utah,100
+1953,Utah,100
+1961,Utah,101
+1973,Utah,102
+1949,Vermont,100
+1950,Vermont,100
+1949,Virginia,100
+1950,Virginia,101
+1951,Virginia,101
+1953,Virginia,101
+1956,Virginia,105
+1957,Virginia,105
+1966,Virginia,105
+1967,Virginia,106
+1981,Virginia,107
+1950,Washington,100
+1951,Washington,99
+1969,Washington,100
+1971,Washington,100
+1972,Washington,100
+1974,Washington,100
+1979,Washington,100
+1949,West Virginia,100
+1953,West Virginia,100
+1957,West Virginia,101
+1960,West Virginia,103
+1970,West Virginia,103
+1971,West Virginia,103
+1972,West Virginia,101
+1973,West Virginia,100
+1974,West Virginia,100
+1975,West Virginia,101
+1976,West Virginia,103
+1977,West Virginia,102
+1978,West Virginia,102
+1979,West Virginia,103
+1980,West Virginia,105
+1982,West Virginia,110
+1969,Wisconsin,100
+1971,Wisconsin,101
+1972,Wisconsin,104
+1975,Wisconsin,105
+1977,Wisconsin,106
+1978,Wisconsin,106
+1976,Wyoming,100
+1982,Wyoming,100
+1950,alabama,100
 1953,alabama,100
 1955,alabama,100
 1957,alabama,101
-1977,alabama,102
-1982,alabama,103
-1974,alaska,100
-1977,alaska,101
-1982,alaska,102
-1953,arizona,100
-1954,arizona,103
-1955,arizona,105
-1969,arizona,105
-1974,arizona,112
-1977,arizona,113
-1982,arizona,116
-1953,arkansas,100
-1955,arkansas,100
-1969,arkansas,100
-1974,arkansas,104
-1977,arkansas,107
-1982,arkansas,108
-1953,california,100
-1954,california,108
-1955,california,110
-1966,california,112
-1967,california,114
-1969,california,118
-1974,california,122
-1977,california,125
-1982,california,127
+1961,alabama,100
+1968,alabama,100
+1969,alabama,102
+1971,alabama,103
+1976,alabama,103
+1977,alabama,104
+1978,alabama,105
+1979,alabama,107
+1980,alabama,108
+1981,alabama,111
+1982,alabama,112
+1961,alaska,100
+1968,alaska,100
+1972,alaska,101
+1974,alaska,104
+1975,alaska,105
+1976,alaska,108
+1977,alaska,109
+1978,alaska,111
+1979,alaska,116
+1980,alaska,118
+1981,alaska,120
+1982,alaska,124
+1949,arizona,100
+1950,arizona,101
+1951,arizona,100
+1952,arizona,101
+1953,arizona,102
+1954,arizona,105
+1955,arizona,107
+1956,arizona,106
+1960,arizona,107
+1961,arizona,106
+1968,arizona,107
+1969,arizona,107
+1970,arizona,106
+1971,arizona,107
+1972,arizona,105
+1973,arizona,105
+1974,arizona,113
+1975,arizona,113
+1976,arizona,121
+1977,arizona,122
+1978,arizona,124
+1979,arizona,127
+1980,arizona,126
+1981,arizona,128
+1982,arizona,133
+1949,arkansas,100
+1953,arkansas,99
+1955,arkansas,99
+1960,arkansas,100
+1961,arkansas,102
+1968,arkansas,102
+1969,arkansas,102
+1970,arkansas,103
+1971,arkansas,107
+1972,arkansas,106
+1973,arkansas,108
+1974,arkansas,112
+1975,arkansas,117
+1977,arkansas,119
+1978,arkansas,119
+1979,arkansas,121
+1980,arkansas,123
+1981,arkansas,123
+1982,arkansas,124
+1948,california,100
+1949,california,100
+1950,california,105
+1951,california,108
+1952,california,111
+1953,california,112
+1954,california,120
+1955,california,122
+1956,california,132
+1960,california,133
+1961,california,135
+1966,california,137
+1967,california,147
+1968,california,155
+1969,california,162
+1970,california,169
+1971,california,167
+1972,california,174
+1973,california,187
+1974,california,196
+1975,california,207
+1976,california,217
+1977,california,230
+1978,california,242
+1979,california,246
+1980,california,251
+1981,california,256
+1982,california,260
 1948,colorado,100
-1953,colorado,100
-1954,colorado,100
-1955,colorado,101
-1967,colorado,101
-1969,colorado,102
-1977,colorado,107
-1982,colorado,108
-1954,connecticut,100
-1955,connecticut,101
-1967,connecticut,102
-1969,connecticut,102
-1977,connecticut,102
-1982,connecticut,102
+1950,colorado,99
+1951,colorado,98
+1952,colorado,99
+1953,colorado,99
+1954,colorado,99
+1955,colorado,100
+1956,colorado,100
+1961,colorado,100
+1967,colorado,99
+1968,colorado,99
+1969,colorado,101
+1970,colorado,101
+1971,colorado,101
+1972,colorado,103
+1973,colorado,106
+1975,colorado,111
+1976,colorado,110
+1977,colorado,118
+1978,colorado,118
+1979,colorado,120
+1980,colorado,121
+1981,colorado,124
+1982,colorado,126
+1950,connecticut,100
+1951,connecticut,99
+1952,connecticut,100
+1954,connecticut,101
+1955,connecticut,102
+1961,connecticut,103
+1967,connecticut,104
+1969,connecticut,104
+1970,connecticut,106
+1971,connecticut,107
+1972,connecticut,107
+1973,connecticut,107
+1975,connecticut,107
+1976,connecticut,110
+1977,connecticut,110
+1978,connecticut,110
+1979,connecticut,111
+1980,connecticut,113
+1981,connecticut,120
+1982,connecticut,123
+1949,delaware,100
+1951,delaware,100
 1953,delaware,100
-1974,delaware,100
-1982,delaware,100
+1968,delaware,101
+1973,delaware,102
+1974,delaware,103
+1975,delaware,103
+1976,delaware,104
+1978,delaware,106
+1979,delaware,107
+1981,delaware,106
+1982,delaware,105
 1948,district of columbia,100
+1960,district of columbia,99
 1966,district of columbia,101
 1967,district of columbia,102
 1969,district of columbia,103
+1971,district of columbia,103
+1972,district of columbia,104
+1976,district of columbia,105
 1948,florida,100
-1953,florida,100
-1954,florida,100
-1955,florida,101
-1957,florida,102
-1966,florida,102
-1974,florida,107
-1977,florida,109
-1982,florida,110
-1953,georgia,100
-1955,georgia,99
-1967,georgia,100
-1969,georgia,98
-1974,georgia,101
-1977,georgia,102
-1982,georgia,103
-1974,hawaii,100
-1982,hawaii,99
-1953,idaho,100
-1967,idaho,101
-1969,idaho,102
-1974,idaho,103
+1949,florida,100
+1950,florida,103
+1951,florida,107
+1952,florida,107
+1953,florida,107
+1954,florida,107
+1955,florida,108
+1956,florida,112
+1957,florida,113
+1960,florida,112
+1961,florida,115
+1966,florida,115
+1967,florida,117
+1968,florida,120
+1969,florida,125
+1970,florida,128
+1971,florida,132
+1972,florida,135
+1973,florida,138
+1974,florida,144
+1975,florida,143
+1976,florida,147
+1977,florida,151
+1978,florida,155
+1979,florida,157
+1980,florida,156
+1981,florida,158
+1982,florida,159
+1949,georgia,100
+1950,georgia,101
+1953,georgia,102
+1955,georgia,101
+1957,georgia,104
+1961,georgia,106
+1967,georgia,107
+1968,georgia,110
+1969,georgia,107
+1970,georgia,108
+1971,georgia,109
+1972,georgia,112
+1973,georgia,112
+1974,georgia,115
+1975,georgia,124
+1976,georgia,128
+1977,georgia,129
+1978,georgia,135
+1979,georgia,137
+1980,georgia,139
+1981,georgia,143
+1982,georgia,146
+1961,hawaii,100
+1967,hawaii,101
+1968,hawaii,102
+1969,hawaii,101
+1970,hawaii,103
+1971,hawaii,105
+1972,hawaii,105
+1973,hawaii,106
+1974,hawaii,106
+1975,hawaii,105
+1976,hawaii,106
+1979,hawaii,107
+1980,hawaii,108
+1981,hawaii,107
+1982,hawaii,106
+1949,idaho,100
+1951,idaho,102
+1953,idaho,103
+1957,idaho,104
+1967,idaho,105
+1968,idaho,106
+1969,idaho,107
+1970,idaho,108
+1972,idaho,108
+1973,idaho,109
+1974,idaho,109
+1975,idaho,108
+1976,idaho,108
+1977,idaho,105
+1978,idaho,103
+1979,idaho,104
+1980,idaho,103
+1981,idaho,103
 1982,idaho,104
 1948,illinois,100
-1953,illinois,99
-1954,illinois,103
-1955,illinois,106
-1957,illinois,109
-1966,illinois,110
-1967,illinois,110
-1969,illinois,110
-1974,illinois,113
-1977,illinois,114
-1982,illinois,114
-1953,indiana,100
-1955,indiana,97
-1967,indiana,98
-1974,indiana,101
-1977,indiana,100
-1982,indiana,101
-1953,iowa,100
-1955,iowa,102
-1974,iowa,105
-1977,iowa,106
-1982,iowa,106
-1953,kansas,100
-1955,kansas,98
-1967,kansas,98
+1951,illinois,101
+1952,illinois,102
+1953,illinois,101
+1954,illinois,105
+1955,illinois,113
+1956,illinois,114
+1957,illinois,117
+1960,illinois,119
+1961,illinois,119
+1966,illinois,120
+1967,illinois,121
+1968,illinois,125
+1969,illinois,126
+1970,illinois,125
+1971,illinois,125
+1972,illinois,126
+1973,illinois,127
+1974,illinois,130
+1975,illinois,134
+1976,illinois,137
+1977,illinois,140
+1978,illinois,142
+1979,illinois,147
+1980,illinois,148
+1981,illinois,157
+1982,illinois,157
+1949,indiana,100
+1951,indiana,101
+1953,indiana,104
+1955,indiana,101
+1961,indiana,103
+1967,indiana,104
+1968,indiana,104
+1969,indiana,107
+1970,indiana,109
+1971,indiana,112
+1972,indiana,113
+1973,indiana,113
+1974,indiana,116
+1975,indiana,118
+1976,indiana,118
+1977,indiana,116
+1978,indiana,119
+1979,indiana,121
+1980,indiana,120
+1981,indiana,127
+1982,indiana,128
+1949,iowa,100
+1951,iowa,99
+1953,iowa,101
+1955,iowa,103
+1961,iowa,104
+1968,iowa,105
+1970,iowa,104
+1971,iowa,104
+1972,iowa,104
+1974,iowa,108
+1975,iowa,115
+1976,iowa,116
+1977,iowa,117
+1978,iowa,119
+1979,iowa,122
+1980,iowa,122
+1981,iowa,120
+1982,iowa,121
+1951,kansas,100
+1953,kansas,98
+1955,kansas,96
+1957,kansas,97
+1961,kansas,99
+1967,kansas,99
+1968,kansas,97
 1969,kansas,99
-1974,kansas,100
-1977,kansas,100
-1982,kansas,98
+1970,kansas,98
+1971,kansas,99
+1972,kansas,101
+1974,kansas,102
+1975,kansas,100
+1976,kansas,101
+1977,kansas,101
+1978,kansas,102
+1979,kansas,107
+1980,kansas,106
+1981,kansas,108
+1982,kansas,108
 1948,kentucky,100
-1954,kentucky,98
-1966,kentucky,99
-1967,kentucky,99
-1969,kentucky,98
-1974,kentucky,100
-1977,kentucky,99
-1982,kentucky,101
+1949,kentucky,99
+1950,kentucky,99
+1954,kentucky,97
+1960,kentucky,100
+1961,kentucky,101
+1966,kentucky,102
+1967,kentucky,102
+1968,kentucky,102
+1969,kentucky,101
+1970,kentucky,102
+1972,kentucky,103
+1973,kentucky,104
+1974,kentucky,107
+1975,kentucky,108
+1976,kentucky,110
+1977,kentucky,109
+1978,kentucky,110
+1979,kentucky,110
+1980,kentucky,112
+1981,kentucky,114
+1982,kentucky,121
 1948,louisiana,100
-1966,louisiana,99
-1974,louisiana,99
-1977,louisiana,99
-1982,louisiana,98
-1967,maine,100
-1977,maine,99
-1969,maryland,100
-1974,maryland,104
-1977,maryland,104
-1982,maryland,103
-1953,massachusetts,100
-1966,massachusetts,99
+1950,louisiana,100
+1954,louisiana,103
+1966,louisiana,102
+1968,louisiana,104
+1970,louisiana,104
+1972,louisiana,106
+1973,louisiana,109
+1974,louisiana,109
+1975,louisiana,111
+1977,louisiana,111
+1978,louisiana,113
+1979,louisiana,115
+1980,louisiana,116
+1981,louisiana,115
+1982,louisiana,114
+1951,maine,100
+1967,maine,107
+1969,maine,107
+1972,maine,108
+1973,maine,107
+1976,maine,107
+1977,maine,106
+1978,maine,108
+1979,maine,109
+1980,maine,109
+1981,maine,110
+1982,maine,111
+1951,maryland,100
+1968,maryland,101
+1969,maryland,102
+1970,maryland,103
+1971,maryland,103
+1972,maryland,105
+1973,maryland,111
+1974,maryland,115
+1975,maryland,117
+1976,maryland,117
+1977,maryland,118
+1978,maryland,119
+1979,maryland,118
+1980,maryland,118
+1981,maryland,122
+1982,maryland,121
+1950,massachusetts,100
+1953,massachusetts,101
+1956,massachusetts,101
+1966,massachusetts,100
 1967,massachusetts,97
-1969,massachusetts,98
-1974,massachusetts,98
-1977,massachusetts,99
-1982,massachusetts,102
+1968,massachusetts,95
+1969,massachusetts,96
+1970,massachusetts,98
+1972,massachusetts,99
+1973,massachusetts,102
+1974,massachusetts,101
+1975,massachusetts,102
+1976,massachusetts,103
+1977,massachusetts,104
+1978,massachusetts,106
+1980,massachusetts,110
+1981,massachusetts,116
+1982,massachusetts,122
 1948,michigan,100
-1954,michigan,99
-1955,michigan,100
-1967,michigan,101
-1974,michigan,104
-1977,michigan,103
-1982,michigan,105
-1955,minnesota,100
-1966,minnesota,99
-1967,minnesota,98
-1969,minnesota,97
-1974,minnesota,97
-1977,minnesota,99
-1982,minnesota,100
-1954,mississippi,100
-1955,mississippi,100
-1967,mississippi,101
-1974,mississippi,102
-1977,mississippi,103
-1982,mississippi,105
-1953,missouri,100
-1955,missouri,101
-1969,missouri,101
-1974,missouri,101
-1977,missouri,101
-1982,missouri,102
-1967,montana,100
-1977,montana,101
+1949,michigan,101
+1950,michigan,105
+1951,michigan,106
+1952,michigan,106
+1953,michigan,107
+1954,michigan,106
+1955,michigan,107
+1956,michigan,108
+1961,michigan,107
+1967,michigan,108
+1968,michigan,109
+1969,michigan,112
+1971,michigan,117
+1972,michigan,120
+1974,michigan,123
+1975,michigan,129
+1976,michigan,138
+1977,michigan,138
+1978,michigan,139
+1979,michigan,143
+1980,michigan,144
+1981,michigan,148
+1982,michigan,150
+1949,minnesota,100
+1951,minnesota,102
+1955,minnesota,103
+1956,minnesota,104
+1957,minnesota,103
+1966,minnesota,102
+1967,minnesota,101
+1969,minnesota,99
+1970,minnesota,99
+1971,minnesota,96
+1972,minnesota,97
+1973,minnesota,99
+1974,minnesota,99
+1975,minnesota,101
+1976,minnesota,103
+1977,minnesota,106
+1978,minnesota,108
+1979,minnesota,110
+1980,minnesota,113
+1981,minnesota,118
+1982,minnesota,118
+1950,mississippi,100
+1952,mississippi,100
+1954,mississippi,99
+1955,mississippi,99
+1967,mississippi,100
+1970,mississippi,102
+1974,mississippi,103
+1975,mississippi,103
+1977,mississippi,104
+1978,mississippi,105
+1979,mississippi,104
+1980,mississippi,103
+1981,mississippi,105
+1982,mississippi,107
+1949,missouri,100
+1950,missouri,99
+1951,missouri,99
+1953,missouri,98
+1955,missouri,99
+1960,missouri,100
+1961,missouri,100
+1967,missouri,111
+1968,missouri,112
+1969,missouri,116
+1970,missouri,117
+1971,missouri,119
+1972,missouri,120
+1973,missouri,123
+1974,missouri,123
+1975,missouri,125
+1976,missouri,127
+1977,missouri,128
+1978,missouri,131
+1979,missouri,135
+1980,missouri,138
+1981,missouri,139
+1982,missouri,139
+1949,montana,100
+1957,montana,101
+1961,montana,102
+1967,montana,102
+1973,montana,101
+1977,montana,104
+1979,montana,106
+1980,montana,107
+1981,montana,110
 1948,nebraska,100
-1954,nebraska,99
-1955,nebraska,100
-1967,nebraska,102
-1969,nebraska,104
-1977,nebraska,106
+1949,nebraska,100
+1951,nebraska,99
+1954,nebraska,98
+1955,nebraska,99
+1960,nebraska,99
+1967,nebraska,101
+1969,nebraska,103
+1972,nebraska,104
+1973,nebraska,105
+1977,nebraska,108
+1978,nebraska,107
+1979,nebraska,106
+1980,nebraska,107
+1981,nebraska,107
 1982,nebraska,104
-1982,nevada,100
-1953,new hampshire,100
-1969,new hampshire,101
-1982,new hampshire,104
-1953,new jersey,100
-1966,new jersey,101
-1974,new jersey,104
-1977,new jersey,103
-1982,new jersey,104
-1955,new mexico,100
-1957,new mexico,100
-1966,new mexico,101
-1967,new mexico,101
-1969,new mexico,103
-1974,new mexico,104
-1977,new mexico,109
-1982,new mexico,108
+1949,nevada,100
+1969,nevada,101
+1970,nevada,103
+1971,nevada,105
+1972,nevada,105
+1973,nevada,106
+1975,nevada,109
+1979,nevada,108
+1981,nevada,107
+1982,nevada,107
+1951,new hampshire,100
+1953,new hampshire,101
+1961,new hampshire,99
+1967,new hampshire,94
+1968,new hampshire,93
+1969,new hampshire,94
+1970,new hampshire,95
+1971,new hampshire,95
+1973,new hampshire,95
+1981,new hampshire,96
+1982,new hampshire,100
+1952,new jersey,100
+1953,new jersey,99
+1961,new jersey,100
+1966,new jersey,102
+1967,new jersey,106
+1968,new jersey,107
+1969,new jersey,107
+1970,new jersey,109
+1971,new jersey,113
+1972,new jersey,119
+1973,new jersey,120
+1974,new jersey,123
+1975,new jersey,125
+1977,new jersey,123
+1978,new jersey,124
+1980,new jersey,124
+1981,new jersey,125
+1982,new jersey,126
+1949,new mexico,100
+1951,new mexico,100
+1952,new mexico,100
+1955,new mexico,98
+1956,new mexico,99
+1957,new mexico,105
+1960,new mexico,106
+1961,new mexico,108
+1966,new mexico,109
+1967,new mexico,110
+1968,new mexico,111
+1969,new mexico,113
+1973,new mexico,114
+1974,new mexico,115
+1976,new mexico,118
+1977,new mexico,123
+1978,new mexico,123
+1979,new mexico,123
+1980,new mexico,126
+1981,new mexico,127
+1982,new mexico,126
+1948,new york,100
+1950,new york,101
+1951,new york,100
+1952,new york,100
 1953,new york,100
 1954,new york,100
-1955,new york,110
-1967,new york,109
-1969,new york,109
-1974,new york,112
-1977,new york,114
-1982,new york,119
-1955,north carolina,100
-1967,north carolina,101
-1974,north carolina,101
-1977,north carolina,102
-1982,north carolina,105
+1955,new york,111
+1956,new york,111
+1957,new york,110
+1960,new york,112
+1961,new york,113
+1966,new york,112
+1967,new york,111
+1968,new york,114
+1969,new york,116
+1970,new york,120
+1971,new york,120
+1972,new york,122
+1973,new york,124
+1974,new york,128
+1975,new york,129
+1976,new york,133
+1977,new york,139
+1978,new york,143
+1979,new york,146
+1980,new york,152
+1981,new york,161
+1982,new york,170
+1951,north carolina,100
+1955,north carolina,101
+1967,north carolina,102
+1968,north carolina,101
+1970,north carolina,102
+1971,north carolina,102
+1972,north carolina,103
+1974,north carolina,103
+1975,north carolina,105
+1976,north carolina,106
+1977,north carolina,107
+1978,north carolina,108
+1979,north carolina,110
+1980,north carolina,112
+1981,north carolina,112
+1982,north carolina,115
+1948,north dakota,100
+1949,north dakota,99
+1950,north dakota,99
+1951,north dakota,99
 1953,north dakota,100
 1955,north dakota,101
+1961,north dakota,101
 1966,north dakota,103
-1967,north dakota,104
-1969,north dakota,105
-1974,north dakota,107
-1977,north dakota,106
-1982,north dakota,107
-1953,ohio,100
-1954,ohio,100
-1955,ohio,101
-1957,ohio,101
-1966,ohio,102
-1967,ohio,101
-1969,ohio,103
-1974,ohio,105
-1977,ohio,106
-1982,ohio,110
-1955,oklahoma,100
-1966,oklahoma,103
-1967,oklahoma,104
-1969,oklahoma,105
-1974,oklahoma,107
-1977,oklahoma,110
-1982,oklahoma,119
-1953,oregon,100
-1955,oregon,100
-1967,oregon,103
-1969,oregon,101
-1974,oregon,107
-1977,oregon,109
-1982,oregon,111
+1967,north dakota,105
+1968,north dakota,106
+1969,north dakota,108
+1970,north dakota,111
+1971,north dakota,110
+1972,north dakota,112
+1973,north dakota,113
+1974,north dakota,115
+1975,north dakota,115
+1976,north dakota,114
+1977,north dakota,116
+1978,north dakota,117
+1979,north dakota,118
+1980,north dakota,119
+1981,north dakota,124
+1982,north dakota,125
+1948,ohio,100
+1952,ohio,100
+1953,ohio,101
+1954,ohio,101
+1955,ohio,102
+1956,ohio,102
+1957,ohio,102
+1961,ohio,100
+1966,ohio,101
+1967,ohio,100
+1968,ohio,101
+1969,ohio,102
+1970,ohio,102
+1971,ohio,102
+1972,ohio,106
+1973,ohio,104
+1974,ohio,106
+1975,ohio,112
+1976,ohio,114
+1977,ohio,115
+1978,ohio,123
+1979,ohio,126
+1980,ohio,128
+1981,ohio,133
+1982,ohio,137
+1952,oklahoma,100
+1955,oklahoma,101
+1960,oklahoma,108
+1961,oklahoma,114
+1966,oklahoma,121
+1967,oklahoma,125
+1968,oklahoma,129
+1969,oklahoma,132
+1970,oklahoma,135
+1971,oklahoma,137
+1972,oklahoma,140
+1973,oklahoma,144
+1974,oklahoma,144
+1975,oklahoma,150
+1976,oklahoma,159
+1977,oklahoma,173
+1978,oklahoma,178
+1979,oklahoma,183
+1980,oklahoma,192
+1981,oklahoma,207
+1982,oklahoma,217
+1951,oregon,100
+1952,oregon,100
+1953,oregon,101
+1955,oregon,101
+1957,oregon,101
+1960,oregon,102
+1961,oregon,104
+1967,oregon,108
+1968,oregon,110
+1969,oregon,109
+1971,oregon,112
+1972,oregon,117
+1973,oregon,124
+1974,oregon,130
+1975,oregon,138
+1976,oregon,144
+1977,oregon,148
+1978,oregon,151
+1979,oregon,154
+1980,oregon,156
+1981,oregon,163
+1982,oregon,165
 1948,pennsylvania,100
-1953,pennsylvania,99
-1954,pennsylvania,101
-1955,pennsylvania,100
-1966,pennsylvania,101
-1969,pennsylvania,102
-1974,pennsylvania,109
-1977,pennsylvania,113
-1982,pennsylvania,115
+1950,pennsylvania,101
+1951,pennsylvania,102
+1953,pennsylvania,101
+1954,pennsylvania,103
+1955,pennsylvania,102
+1956,pennsylvania,103
+1960,pennsylvania,106
+1961,pennsylvania,107
+1966,pennsylvania,108
+1967,pennsylvania,108
+1968,pennsylvania,108
+1969,pennsylvania,111
+1970,pennsylvania,115
+1971,pennsylvania,120
+1972,pennsylvania,126
+1973,pennsylvania,129
+1974,pennsylvania,136
+1975,pennsylvania,142
+1976,pennsylvania,142
+1977,pennsylvania,148
+1978,pennsylvania,154
+1979,pennsylvania,157
+1980,pennsylvania,157
+1981,pennsylvania,158
+1982,pennsylvania,160
 1953,rhode island,100
-1974,rhode island,100
-1967,south carolina,100
-1974,south carolina,99
-1982,south carolina,100
+1968,rhode island,101
+1974,rhode island,101
+1978,rhode island,102
+1951,south carolina,100
+1961,south carolina,103
+1967,south carolina,103
+1968,south carolina,103
+1969,south carolina,104
+1970,south carolina,104
+1971,south carolina,104
+1972,south carolina,107
+1974,south carolina,106
+1976,south carolina,108
+1977,south carolina,108
+1978,south carolina,108
+1979,south carolina,109
+1980,south carolina,109
+1981,south carolina,112
+1982,south carolina,113
+1949,south dakota,100
+1951,south dakota,99
 1953,south dakota,100
 1955,south dakota,97
-1966,south dakota,97
-1967,south dakota,96
-1969,south dakota,98
-1974,south dakota,103
-1977,south dakota,103
-1982,south dakota,103
-1957,tennessee,100
-1966,tennessee,98
-1967,tennessee,100
-1974,tennessee,102
-1977,tennessee,104
-1982,tennessee,104
-1953,texas,100
+1956,south dakota,96
+1960,south dakota,97
+1961,south dakota,98
+1966,south dakota,98
+1967,south dakota,104
+1969,south dakota,106
+1970,south dakota,106
+1971,south dakota,106
+1972,south dakota,109
+1973,south dakota,113
+1974,south dakota,118
+1975,south dakota,119
+1976,south dakota,122
+1977,south dakota,125
+1978,south dakota,128
+1979,south dakota,130
+1980,south dakota,131
+1981,south dakota,132
+1982,south dakota,133
+1949,tennessee,100
+1951,tennessee,100
+1955,tennessee,101
+1957,tennessee,101
+1960,tennessee,102
+1961,tennessee,108
+1966,tennessee,106
+1967,tennessee,114
+1968,tennessee,116
+1969,tennessee,117
+1970,tennessee,117
+1971,tennessee,116
+1972,tennessee,117
+1973,tennessee,116
+1974,tennessee,118
+1975,tennessee,120
+1976,tennessee,123
+1977,tennessee,125
+1978,tennessee,126
+1979,tennessee,127
+1980,tennessee,129
+1981,tennessee,129
+1982,tennessee,130
+1949,texas,100
+1950,texas,100
+1951,texas,99
+1952,texas,99
+1953,texas,99
 1955,texas,104
-1966,texas,106
-1967,texas,107
-1969,texas,106
-1974,texas,107
-1977,texas,112
-1982,texas,115
-1955,utah,100
-1957,utah,101
-1967,utah,103
-1974,utah,105
-1977,utah,106
-1982,utah,106
-1953,vermont,100
-1955,vermont,98
-1977,vermont,99
-1982,vermont,99
-1953,virginia,100
-1974,virginia,100
-1977,virginia,102
-1982,virginia,106
-1953,washington,100
-1954,washington,99
-1969,washington,100
-1974,washington,101
-1977,washington,102
-1982,washington,105
-1953,wisconsin,100
-1954,wisconsin,101
-1955,wisconsin,100
-1966,wisconsin,101
-1969,wisconsin,101
-1974,wisconsin,110
-1977,wisconsin,112
-1982,wisconsin,117
+1956,texas,107
+1960,texas,109
+1961,texas,110
+1966,texas,112
+1967,texas,113
+1968,texas,116
+1969,texas,114
+1970,texas,116
+1971,texas,116
+1972,texas,116
+1973,texas,118
+1974,texas,119
+1975,texas,124
+1976,texas,127
+1977,texas,135
+1978,texas,143
+1979,texas,152
+1980,texas,153
+1981,texas,158
+1982,texas,166
+1949,utah,100
+1950,utah,103
+1955,utah,104
+1956,utah,105
+1957,utah,107
+1961,utah,107
+1967,utah,109
+1969,utah,108
+1970,utah,110
+1971,utah,109
+1972,utah,110
+1973,utah,112
+1974,utah,114
+1975,utah,116
+1976,utah,117
+1977,utah,118
+1978,utah,120
+1979,utah,123
+1980,utah,122
+1981,utah,125
+1982,utah,126
+1949,vermont,100
+1953,vermont,99
+1955,vermont,97
+1968,vermont,99
+1970,vermont,100
+1972,vermont,99
+1977,vermont,100
+1981,vermont,100
+1982,vermont,100
+1949,virginia,100
+1950,virginia,103
+1952,virginia,102
+1953,virginia,101
+1956,virginia,102
+1970,virginia,103
+1971,virginia,104
+1972,virginia,102
+1973,virginia,102
+1974,virginia,108
+1975,virginia,109
+1976,virginia,108
+1977,virginia,111
+1978,virginia,111
+1979,virginia,115
+1980,virginia,115
+1981,virginia,114
+1982,virginia,123
+1949,washington,100
+1950,washington,101
+1951,washington,102
+1953,washington,101
+1954,washington,100
+1956,washington,101
+1961,washington,103
+1967,washington,102
+1969,washington,104
+1970,washington,105
+1971,washington,104
+1972,washington,103
+1973,washington,104
+1974,washington,105
+1975,washington,111
+1976,washington,114
+1977,washington,116
+1978,washington,119
+1979,washington,117
+1980,washington,117
+1981,washington,120
+1982,washington,124
+1948,wisconsin,100
+1949,wisconsin,100
+1950,wisconsin,101
+1951,wisconsin,102
+1952,wisconsin,101
+1953,wisconsin,102
+1954,wisconsin,103
+1955,wisconsin,102
+1956,wisconsin,103
+1961,wisconsin,102
+1966,wisconsin,103
+1967,wisconsin,107
+1968,wisconsin,116
+1969,wisconsin,120
+1970,wisconsin,129
+1971,wisconsin,139
+1972,wisconsin,151
+1973,wisconsin,154
+1974,wisconsin,164
+1975,wisconsin,176
+1976,wisconsin,181
+1977,wisconsin,186
+1978,wisconsin,199
+1979,wisconsin,210
+1980,wisconsin,214
+1981,wisconsin,223
+1982,wisconsin,229
+1949,wyoming,100
 1955,wyoming,100
+1957,wyoming,99
 1967,wyoming,102
-1969,wyoming,101
-1977,wyoming,102
-1982,wyoming,103
+1968,wyoming,102
+1969,wyoming,100
+1973,wyoming,99
+1975,wyoming,100
+1976,wyoming,101
+1977,wyoming,103
+1980,wyoming,104
+1981,wyoming,104
+1982,wyoming,104
